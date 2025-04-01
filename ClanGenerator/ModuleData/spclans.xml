@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+  
+<!-- New Aserai Clans -->		   
+  <Faction id="clan_ec_aserai_1"
+           name="{=clan.clan_ec_aserai_1}Banu Assid"
+           tier="1"
+           owner="Hero.lord_ec_aserai_1a"
+           culture="Culture.aserai"
+           super_faction="Kingdom.aserai"
+           banner_key="11.0.166.1528.1528.764.764.1.0.0.156.1.1.583.583.764.764.0.0.0" />
+		   
+   <Faction id="clan_ec_aserai_2"
+           name="{=clan.clan_ec_aserai_2}Banu Vatar"
+           tier="1"
+           owner="Hero.lord_ec_aserai_2a"
+           culture="Culture.aserai"
+           super_faction="Kingdom.aserai"
+           banner_key="11.0.155.1528.1528.764.764.1.0.0.155.1.123.400.400.775.655.0.0.180.155.1.116.400.400.735.855.0.0.0" />
+		   
+  <!-- New Battania Clan -->		   
+  <Faction id="clan_ec_battania_1"
+           name="{=clan.clan_ec_battania_1}fen Ulster"
+           tier="1"
+           owner="Hero.lord_ec_battania_1a"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           banner_key="11.2.2.1528.1528.764.764.1.0.0.135.3.3.300.300.751.763.0.0.0.420.3.3.700.700.755.755.0.0.0" />
+           
+  <Faction id="clan_ec_battania_2"
+           name="{=clan.clan_ec_battania_2}fen Connacht"
+           tier="1"
+           owner="Hero.lord_ec_battania_2a"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           banner_key="11.2.2.1528.1528.764.764.1.0.0.137.3.3.500.500.764.764.0.0.0" />
+
+  <Faction id="clan_ec_battania_3"
+           name="{=clan.clan_ec_battania_3}fen Gwynedd"
+           tier="1"
+           owner="Hero.lord_ec_battania_3a"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           banner_key="11.2.2.1528.1528.764.764.1.0.0.120.3.3.457.457.857.707.0.1.0.408.3.3.220.220.664.895.0.0.0" />
+
+  <Faction id="clan_ec_battania_4"
+           name="{=clan.clan_ec_battania_4}fen Leinster"
+           tier="1"
+           owner="Hero.lord_ec_battania_4a"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           banner_key="11.2.2.1528.1528.764.764.0.0.0.302.3.3.350.350.754.550.0.0.0.149.3.3.600.700.775.835.0.0.0" />
+
+  <!-- New Khuzait Clans -->		   
+  <Faction id="clan_ec_khuzait_1"
+           name="{=clan.clan_ec_khuzait_1}Temujit"
+           tier="1"
+           owner="Hero.lord_ec_khuzait_1a"
+           culture="Culture.khuzait"
+           super_faction="Kingdom.khuzait"
+           banner_key="11.10.10.1528.1528.764.764.1.0.0.130.11.11.497.497.764.764.0.0.0.401.11.11.200.200.905.555.0.0.0" />
+		   
+  <Faction id="clan_ec_khuzait_2"
+           name="{=clan.clan_ec_khuzait_2}Oirait"
+           tier="1"
+           owner="Hero.lord_ec_khuzait_2a"
+           culture="Culture.khuzait"
+           super_faction="Kingdom.khuzait"
+           banner_key="11.10.10.1528.1528.764.764.1.0.0.313.11.11.497.497.764.735.0.0.48.449.11.11.350.250.765.945.0.0.0" />
+
+  <!-- New Northern Empire Clans -->
+  <Faction id="clan_ec_empire_n_1"
+           name="{=clan.clan_ec_empire_n_1}Constas"
+           tier="2"
+           owner="Hero.lord_ec_empire_n_1a"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="11.4.4.1528.1528.764.764.1.0.0.200.5.5.512.512.764.764.0.0.0" />
+           
+  <Faction id="clan_ec_empire_n_2"
+           name="{=clan.clan_ec_empire_n_2}Adrianos"
+           tier="2"
+           owner="Hero.lord_ec_empire_n_2a"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="11.4.4.1528.1528.764.764.1.0.0.325.5.5.512.512.764.824.0.0.0.223.5.5.200.200.755.595.0.0.0" />
+
+  <Faction id="clan_ec_empire_n_3"
+           name="{=clan.clan_ec_empire_n_3}Solas"
+           tier="2"
+           owner="Hero.lord_ec_empire_n_3a"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="11.4.4.1528.1528.764.764.1.0.0.342.5.5.400.400.780.850.0.0.0.340.5.5.400.400.755.555.0.0.0" />
+
+  <!-- New Southern Empire Clans -->
+  <Faction id="clan_ec_empire_s_1"
+           name="{=clan.clan_ec_empire_s_1}Kesteros"
+           tier="2"
+           owner="Hero.lord_ec_empire_s_1a"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="11.6.6.1528.1528.764.764.1.0.0.202.7.7.512.512.732.864.0.0.0.125.7.7.500.500.785.685.0.1.0" />
+
+  <Faction id="clan_ec_empire_s_2"
+           name="{=clan.clan_ec_empire_s_2}Achaeas"
+           tier="2"
+           owner="Hero.lord_ec_empire_s_2a"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="11.6.6.1528.1528.764.764.1.0.0.146.7.7.600.600.764.764.0.0.0" />
+
+  <Faction id="clan_ec_empire_s_3"
+           name="{=clan.clan_ec_empire_s_2}Cyros"
+           tier="2"
+           owner="Hero.lord_ec_empire_s_3a"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="11.6.6.1528.1528.764.764.1.0.0.158.7.7.560.600.764.764.0.0.351" />
+
+  <!-- New Sturgia Clans -->		   
+  <Faction id="clan_ec_sturgia_1"
+           name="{=clan.clan_ec_sturgia_1}Kvasving"
+           tier="1"
+           owner="Hero.lord_ec_sturgia_1a"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.sturgia"
+           banner_key="11.12.12.1528.1528.764.764.1.0.0.310.13.13.512.512.764.764.0.0.0" />
+
+  <Faction id="clan_ec_sturgia_2"
+           name="{=clan.clan_ec_sturgia_2}Ryaving"
+           tier="1"
+           owner="Hero.lord_ec_sturgia_2a"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.sturgia"
+           banner_key="11.12.12.1528.1528.764.764.1.0.0.121.13.13.612.612.764.764.0.0.0.535.13.116.250.250.720.575.0.0.0" />
+
+  <Faction id="clan_ec_sturgia_3"
+           name="{=clan.clan_ec_sturgia_3}Skirlving"
+           tier="1"
+           owner="Hero.lord_ec_sturgia_3a"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.sturgia"
+           banner_key="11.12.12.1528.1528.764.764.1.0.0.302.13.13.600.700.764.764.0.0.314.302.13.116.600.700.764.764.0.0.44.304.13.116.600.693.764.674.0.0.0" />
+
+  <!-- New Vlandian Clans -->
+  <Faction id="clan_ec_vlandia_1"
+           name="{=clan.clan_ec_vlandia_1}dey Breton"
+           tier="1"
+           owner="Hero.lord_ec_vlandia_1a"
+           culture="Culture.vlandia"
+           super_faction="Kingdom.vlandia"
+           banner_key="11.14.14.1528.1528.764.764.1.0.0.324.15.15.497.497.764.824.0.0.0.341.15.15.250.250.755.565.0.0.0" />
+
+  <Faction id="clan_ec_vlandia_2"
+           name="{=clan.clan_ec_vlandia_2}dey Mercer"
+           tier="1"
+           owner="Hero.lord_ec_vlandia_2a"
+           culture="Culture.vlandia"
+           super_faction="Kingdom.vlandia"
+           banner_key="11.14.14.1528.1528.764.764.1.0.0.157.15.15.455.455.764.697.0.0.0" />
+
+  <!-- New Western Empire Clans -->
+  <Faction id="clan_ec_empire_w_1"
+           name="{=clan.clan_ec_empire_w_1}Rhodis"
+           tier="2"
+           owner="Hero.lord_ec_empire_w_1a"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="11.8.8.1528.1528.764.764.1.0.0.337.9.9.512.512.764.764.0.0.0.321.9.9.100.100.625.785.0.0.0.336.9.9.100.100.905.785.0.0.0" />
+
+  <Faction id="clan_ec_empire_w_2"
+           name="{=clan.clan_ec_empire_w_2}Vidis"
+           tier="2"
+           owner="Hero.lord_ec_empire_w_2a"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="11.8.8.1528.1528.764.764.1.0.0.343.9.9.512.512.764.825.0.0.0.108.9.116.400.400.755.545.0.0.0" />
+		   
+  <Faction id="clan_ec_empire_w_3"
+           name="{=clan.clan_ec_empire_w_3}Epuris"
+           tier="2"
+           owner="Hero.lord_ec_empire_w_3a"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="11.8.8.1528.1528.764.764.1.0.0.320.9.9.512.512.764.745.0.0.0" />
+
+</Factions>

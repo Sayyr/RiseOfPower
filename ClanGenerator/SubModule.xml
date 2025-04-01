@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="Clan Generator"/>
+  <Id value="ClanGenerator"/>
+  <Version value="v1.0.0"/>
+  <SingleplayerModule value="true"/>
+  <MultiplayerModule value="false"/>
+  <DependedModules>
+    <DependedModule Id="Native" />
+    <DependedModule Id="SandBoxCore" />
+    <DependedModule Id="Sandbox" />
+    <DependedModule Id="StoryMode" />
+  </DependedModules>
+  <SubModules>
+    <SubModule>
+      <Name value="Clan Generator"/>
+      <DLLName value="ClanGenerator.dll"/>
+      <SubModuleClassType value="ClanGenerator.ClanGeneratorBehavior"/>
+      <SubModuleClassType value="ClanGenerator.ClanMemberGenerator"/>
+      <SubModuleClassType value="ClanGenerator.ClanInstance"/>
+    </SubModule>
+  </SubModules>
+  <Xmls>
+    <XmlNode>
+      <XmlName id="NPCCharacters" path="lords"/>
+      <IncludedGameTypes>
+        <GameType value="Campaign"/>
+        <GameType value="CampaignStoryMode"/>
+        <GameType value="CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="Heroes" path="heroes"/>
+      <IncludedGameTypes>
+        <GameType value="Campaign"/>
+        <GameType value="CampaignStoryMode"/>
+        <GameType value="CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="Factions" path="spclans"/>
+      <IncludedGameTypes>
+        <GameType value="Campaign"/>
+        <GameType value="CampaignStoryMode"/>
+        <GameType value="CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
+  </Xmls>
+</Module>

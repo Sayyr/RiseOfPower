@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+    <Hero id="lord_ec_aserai_1a" faction="Faction.clan_ec_aserai_1" culture="Culture.aserai" is_noble="true" father="Hero.lord_ec_aserai_1e" spouse="Hero.lord_ec_aserai_1c" />
+    <Hero id="lord_ec_aserai_1b" faction="Faction.clan_ec_aserai_1" culture="Culture.aserai" is_noble="true" father="Hero.lord_ec_aserai_1e" />
+    <Hero id="lord_ec_aserai_1c" faction="Faction.clan_ec_aserai_1" culture="Culture.aserai" is_noble="true" spouse="Hero.lord_ec_aserai_1a" />
+    <Hero id="lord_ec_aserai_1d" faction="Faction.clan_ec_aserai_1" culture="Culture.aserai" is_noble="true" father="Hero.lord_ec_aserai_1a" mother="Hero.lord_ec_aserai_1c" />
+    <Hero id="lord_ec_aserai_1e" faction="Faction.clan_ec_aserai_1" culture="Culture.aserai" is_noble="true" alive="false" />
+
+    <Hero id="lord_ec_aserai_2a" faction="Faction.clan_ec_aserai_2" culture="Culture.aserai" is_noble="true" spouse="Hero.lord_ec_aserai_2c" />
+    <Hero id="lord_ec_aserai_2b" faction="Faction.clan_ec_aserai_2" culture="Culture.aserai" is_noble="true" father="Hero.lord_ec_aserai_2a" mother="Hero.lord_ec_aserai_2c" />
+    <Hero id="lord_ec_aserai_2c" faction="Faction.clan_ec_aserai_2" culture="Culture.aserai" is_noble="true" spouse="Hero.lord_ec_aserai_2a" />
+    <Hero id="lord_ec_aserai_2d" faction="Faction.clan_ec_aserai_2" culture="Culture.aserai" is_noble="true" father="Hero.lord_ec_aserai_2a" mother="Hero.lord_ec_aserai_2c" />
+    <Hero id="lord_ec_aserai_2e" faction="Faction.clan_ec_aserai_2" culture="Culture.aserai" is_noble="true" father="Hero.lord_ec_aserai_2a" mother="Hero.lord_ec_aserai_2c" />
+
+    <Hero id="lord_ec_battania_1a" faction="Faction.clan_ec_battania_1" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_1b" />
+    <Hero id="lord_ec_battania_1b" faction="Faction.clan_ec_battania_1" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_1a" alive="false" />
+    <Hero id="lord_ec_battania_1c" faction="Faction.clan_ec_battania_1" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_1g" mother="Hero.lord_ec_battania_1a" father="Hero.lord_ec_battania_1b" />
+    <Hero id="lord_ec_battania_1d" faction="Faction.clan_ec_battania_1" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_1f" mother="Hero.lord_ec_battania_1a" father="Hero.lord_ec_battania_1b" />
+    <Hero id="lord_ec_battania_1e" faction="Faction.clan_ec_battania_1" culture="Culture.battania" is_noble="true" mother="Hero.lord_ec_battania_1a" father="Hero.lord_ec_battania_1b" />
+    <Hero id="lord_ec_battania_1f" faction="Faction.clan_ec_battania_1" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_1d" />
+    <Hero id="lord_ec_battania_1g" faction="Faction.clan_ec_battania_1" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_1c" />
+
+    <Hero id="lord_ec_battania_2a" faction="Faction.clan_ec_battania_2" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_2b" />
+    <Hero id="lord_ec_battania_2b" faction="Faction.clan_ec_battania_2" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_2a" />
+    <Hero id="lord_ec_battania_2c" faction="Faction.clan_ec_battania_2" culture="Culture.battania" is_noble="true" father="Hero.lord_ec_battania_2a" mother="Hero.lord_ec_battania_2b" />
+    <Hero id="lord_ec_battania_2d" faction="Faction.clan_ec_battania_2" culture="Culture.battania" is_noble="true" father="Hero.lord_ec_battania_2a" mother="Hero.lord_ec_battania_2b" />
+    <Hero id="lord_ec_battania_2e" faction="Faction.clan_ec_battania_2" culture="Culture.battania" is_noble="true" father="Hero.lord_ec_battania_2a" mother="Hero.lord_ec_battania_2b" />
+
+    <Hero id="lord_ec_battania_3a" faction="Faction.clan_ec_battania_3" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_3e" father="Hero.lord_ec_battania_3f" mother="Hero.lord_ec_battania_3b" />
+    <Hero id="lord_ec_battania_3b" faction="Faction.clan_ec_battania_3" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_3f" />
+    <Hero id="lord_ec_battania_3c" faction="Faction.clan_ec_battania_3" culture="Culture.battania" is_noble="true" father="Hero.lord_ec_battania_3a" mother="Hero.lord_ec_battania_3e" />
+    <Hero id="lord_ec_battania_3d" faction="Faction.clan_ec_battania_3" culture="Culture.battania" is_noble="true" father="Hero.lord_ec_battania_3f" mother="Hero.lord_ec_battania_3b" />
+    <Hero id="lord_ec_battania_3e" faction="Faction.clan_ec_battania_3" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_3a" />
+    <Hero id="lord_ec_battania_3f" faction="Faction.clan_ec_battania_3" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_3b" alive="false" />
+
+    <Hero id="lord_ec_battania_4a" faction="Faction.clan_ec_battania_4" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_4b" father="Hero.lord_ec_battania_4c" />
+    <Hero id="lord_ec_battania_4b" faction="Faction.clan_ec_battania_4" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_4a" />
+    <Hero id="lord_ec_battania_4c" faction="Faction.clan_ec_battania_4" culture="Culture.battania" is_noble="true" alive="false" />
+    <Hero id="lord_ec_battania_4d" faction="Faction.clan_ec_battania_4" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_4e" father="Hero.lord_ec_battania_4c" />
+    <Hero id="lord_ec_battania_4e" faction="Faction.clan_ec_battania_4" culture="Culture.battania" is_noble="true" spouse="Hero.lord_ec_battania_4d" />
+    <Hero id="lord_ec_battania_4f" faction="Faction.clan_ec_battania_4" culture="Culture.battania" is_noble="true" father="Hero.lord_ec_battania_4a" mother="Hero.lord_ec_battania_4b" />
+    <Hero id="lord_ec_battania_4g" faction="Faction.clan_ec_battania_4" culture="Culture.battania" is_noble="true" father="Hero.lord_ec_battania_4c" />
+
+    <Hero id="lord_ec_khuzait_1a" faction="Faction.clan_ec_khuzait_1" culture="Culture.khuzait" is_noble="true" father="Hero.lord_ec_khuzait_1d" spouse="Hero.lord_ec_khuzait_1e" />
+    <Hero id="lord_ec_khuzait_1b" faction="Faction.clan_ec_khuzait_1" culture="Culture.khuzait" is_noble="true" father="Hero.lord_ec_khuzait_1d" />
+    <Hero id="lord_ec_khuzait_1c" faction="Faction.clan_ec_khuzait_1" culture="Culture.khuzait" is_noble="true" father="Hero.lord_ec_khuzait_1d" spouse="Hero.lord_ec_khuzait_1f" />
+    <Hero id="lord_ec_khuzait_1d" faction="Faction.clan_ec_khuzait_1" culture="Culture.khuzait" is_noble="true" alive="false" />
+    <Hero id="lord_ec_khuzait_1e" faction="Faction.clan_ec_khuzait_1" culture="Culture.khuzait" is_noble="true" spouse="Hero.lord_ec_khuzait_1a" />
+    <Hero id="lord_ec_khuzait_1f" faction="Faction.clan_ec_khuzait_1" culture="Culture.khuzait" is_noble="true" spouse="Hero.lord_ec_khuzait_1c" />
+
+    <Hero id="lord_ec_khuzait_2a" faction="Faction.clan_ec_khuzait_2" culture="Culture.khuzait" is_noble="true" spouse="Hero.lord_ec_khuzait_2b" />
+    <Hero id="lord_ec_khuzait_2b" faction="Faction.clan_ec_khuzait_2" culture="Culture.khuzait" is_noble="true" spouse="Hero.lord_ec_khuzait_2a" />
+    <Hero id="lord_ec_khuzait_2c" faction="Faction.clan_ec_khuzait_2" culture="Culture.khuzait" is_noble="true" father="Hero.lord_ec_khuzait_2a" mother="Hero.lord_ec_khuzait_2b" />
+    <Hero id="lord_ec_khuzait_2d" faction="Faction.clan_ec_khuzait_2" culture="Culture.khuzait" is_noble="true" father="Hero.lord_ec_khuzait_2a" mother="Hero.lord_ec_khuzait_2b" />
+    <Hero id="lord_ec_khuzait_2e" faction="Faction.clan_ec_khuzait_2" culture="Culture.khuzait" is_noble="true" father="Hero.lord_ec_khuzait_2a" mother="Hero.lord_ec_khuzait_2b" />
+
+    <Hero id="lord_ec_empire_n_1a" faction="Faction.clan_ec_empire_n_1" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_n_1b" />
+    <Hero id="lord_ec_empire_n_1b" faction="Faction.clan_ec_empire_n_1" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_n_1a" />
+    <Hero id="lord_ec_empire_n_1c" faction="Faction.clan_ec_empire_n_1" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_n_1a" mother="Hero.lord_ec_empire_n_1b" />
+    <Hero id="lord_ec_empire_n_1d" faction="Faction.clan_ec_empire_n_1" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_n_1a" mother="Hero.lord_ec_empire_n_1b" spouse="Hero.lord_ec_empire_n_1e" />
+    <Hero id="lord_ec_empire_n_1e" faction="Faction.clan_ec_empire_n_1" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_n_1d" />
+
+    <Hero id="lord_ec_empire_n_2a" faction="Faction.clan_ec_empire_n_2" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_n_2b" />
+    <Hero id="lord_ec_empire_n_2b" faction="Faction.clan_ec_empire_n_2" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_n_2a" alive="false" />
+    <Hero id="lord_ec_empire_n_2c" faction="Faction.clan_ec_empire_n_2" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_n_2b" mother="Hero.lord_ec_empire_n_2a" alive="false" />
+    <Hero id="lord_ec_empire_n_2d" faction="Faction.clan_ec_empire_n_2" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_n_2b" mother="Hero.lord_ec_empire_n_2a" />
+    <Hero id="lord_ec_empire_n_2e" faction="Faction.clan_ec_empire_n_2" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_n_2f" father="Hero.lord_ec_empire_n_2b" mother="Hero.lord_ec_empire_n_2a" />
+    <Hero id="lord_ec_empire_n_2f" faction="Faction.clan_ec_empire_n_2" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_n_2e" />
+
+    <Hero id="lord_ec_empire_n_3a" faction="Faction.clan_ec_empire_n_3" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_n_3b" />
+    <Hero id="lord_ec_empire_n_3b" faction="Faction.clan_ec_empire_n_3" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_n_3a" />
+    <Hero id="lord_ec_empire_n_3c" faction="Faction.clan_ec_empire_n_3" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_n_3d" />
+    <Hero id="lord_ec_empire_n_3d" faction="Faction.clan_ec_empire_n_3" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_n_3c" />
+    <Hero id="lord_ec_empire_n_3e" faction="Faction.clan_ec_empire_n_3" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_n_3a" mother="Hero.lord_ec_empire_n_3b" />
+
+    <Hero id="lord_ec_empire_s_1a" faction="Faction.clan_ec_empire_s_1" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_s_1b" />
+    <Hero id="lord_ec_empire_s_1b" faction="Faction.clan_ec_empire_s_1" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_s_1a" alive="false" />
+    <Hero id="lord_ec_empire_s_1c" faction="Faction.clan_ec_empire_s_1" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_s_1b" mother="Hero.lord_ec_empire_s_1a" spouse="Hero.lord_ec_empire_s_1f" alive="false" />
+    <Hero id="lord_ec_empire_s_1d" faction="Faction.clan_ec_empire_s_1" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_s_1b" mother="Hero.lord_ec_empire_s_1a" />
+    <Hero id="lord_ec_empire_s_1e" faction="Faction.clan_ec_empire_s_1" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_s_1b" mother="Hero.lord_ec_empire_s_1a" />
+    <Hero id="lord_ec_empire_s_1f" faction="Faction.clan_ec_empire_s_1" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_s_1c" />
+
+    <Hero id="lord_ec_empire_s_2a" faction="Faction.clan_ec_empire_s_2" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_s_2b" />
+    <Hero id="lord_ec_empire_s_2b" faction="Faction.clan_ec_empire_s_2" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_s_2a" />
+    <Hero id="lord_ec_empire_s_2c" faction="Faction.clan_ec_empire_s_2" culture="Culture.empire" is_noble="true" />
+    <Hero id="lord_ec_empire_s_2d" faction="Faction.clan_ec_empire_s_2" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_s_2f" father="Hero.lord_ec_empire_s_2a" mother="Hero.lord_ec_empire_s_2b" />
+    <Hero id="lord_ec_empire_s_2e" faction="Faction.clan_ec_empire_s_2" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_s_2a" mother="Hero.lord_ec_empire_s_2b" />
+    <Hero id="lord_ec_empire_s_2f" faction="Faction.clan_ec_empire_s_2" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_s_2e" />
+
+    <Hero id="lord_ec_empire_s_3a" faction="Faction.clan_ec_empire_s_3" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_s_3b" />
+    <Hero id="lord_ec_empire_s_3b" faction="Faction.clan_ec_empire_s_3" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_s_3a" />
+    <Hero id="lord_ec_empire_s_3c" faction="Faction.clan_ec_empire_s_3" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_s_3d" />
+    <Hero id="lord_ec_empire_s_3d" faction="Faction.clan_ec_empire_s_3" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_s_3c" />
+    <Hero id="lord_ec_empire_s_3e" faction="Faction.clan_ec_empire_s_3" culture="Culture.empire" is_noble="true" />
+
+    <Hero id="lord_ec_sturgia_1a" faction="Faction.clan_ec_sturgia_1" culture="Culture.sturgia" is_noble="true" spouse="Hero.lord_ec_sturgia_1b" />
+    <Hero id="lord_ec_sturgia_1b" faction="Faction.clan_ec_sturgia_1" culture="Culture.sturgia" is_noble="true" spouse="Hero.lord_ec_sturgia_1a" alive="false" />
+    <Hero id="lord_ec_sturgia_1c" faction="Faction.clan_ec_sturgia_1" culture="Culture.sturgia" is_noble="true" father="Hero.lord_ec_sturgia_1a" mother="Hero.lord_ec_sturgia_1b" />
+    <Hero id="lord_ec_sturgia_1d" faction="Faction.clan_ec_sturgia_1" culture="Culture.sturgia" is_noble="true" spouse="Hero.lord_ec_sturgia_1f" father="Hero.lord_ec_sturgia_1a" mother="Hero.lord_ec_sturgia_1b" />
+    <Hero id="lord_ec_sturgia_1e" faction="Faction.clan_ec_sturgia_1" culture="Culture.sturgia" is_noble="true" father="Hero.lord_ec_sturgia_1a" mother="Hero.lord_ec_sturgia_1b" />
+    <Hero id="lord_ec_sturgia_1f" faction="Faction.clan_ec_sturgia_1" culture="Culture.sturgia" is_noble="true" spouse="Hero.lord_ec_sturgia_1d" />
+
+    <Hero id="lord_ec_sturgia_2a" faction="Faction.clan_ec_sturgia_2" culture="Culture.sturgia" is_noble="true" father="Hero.lord_ec_sturgia_2f" spouse="Hero.lord_ec_sturgia_2g" />
+    <Hero id="lord_ec_sturgia_2b" faction="Faction.clan_ec_sturgia_2" culture="Culture.sturgia" is_noble="true" father="Hero.lord_ec_sturgia_2f" />
+    <Hero id="lord_ec_sturgia_2c" faction="Faction.clan_ec_sturgia_2" culture="Culture.sturgia" is_noble="true" father="Hero.lord_ec_sturgia_2f" />
+    <Hero id="lord_ec_sturgia_2d" faction="Faction.clan_ec_sturgia_2" culture="Culture.sturgia" is_noble="true" father="Hero.lord_ec_sturgia_2f" />
+    <Hero id="lord_ec_sturgia_2e" faction="Faction.clan_ec_sturgia_2" culture="Culture.sturgia" is_noble="true" father="Hero.lord_ec_sturgia_2f" />
+    <Hero id="lord_ec_sturgia_2f" faction="Faction.clan_ec_sturgia_2" culture="Culture.sturgia" is_noble="true" alive="false" />
+    <Hero id="lord_ec_sturgia_2g" faction="Faction.clan_ec_sturgia_2" culture="Culture.sturgia" is_noble="true" spouse="Hero.lord_ec_sturgia_2a" />
+
+    <Hero id="lord_ec_sturgia_3a" faction="Faction.clan_ec_sturgia_3" culture="Culture.sturgia" is_noble="true" spouse="Hero.lord_ec_sturgia_3b" />
+    <Hero id="lord_ec_sturgia_3b" faction="Faction.clan_ec_sturgia_3" culture="Culture.sturgia" is_noble="true" spouse="Hero.lord_ec_sturgia_3a" alive="false" />
+    <Hero id="lord_ec_sturgia_3c" faction="Faction.clan_ec_sturgia_3" culture="Culture.sturgia" is_noble="true" father="Hero.lord_ec_sturgia_3b" mother="Hero.lord_ec_sturgia_3a" />
+    <Hero id="lord_ec_sturgia_3d" faction="Faction.clan_ec_sturgia_3" culture="Culture.sturgia" is_noble="true" father="Hero.lord_ec_sturgia_3b" mother="Hero.lord_ec_sturgia_3a" />
+    <Hero id="lord_ec_sturgia_3e" faction="Faction.clan_ec_sturgia_3" culture="Culture.sturgia" is_noble="true" />
+
+    <Hero id="lord_ec_vlandia_1a" faction="Faction.clan_ec_vlandia_1" culture="Culture.vlandia" is_noble="true" spouse="Hero.lord_ec_vlandia_1b" />
+    <Hero id="lord_ec_vlandia_1b" faction="Faction.clan_ec_vlandia_1" culture="Culture.vlandia" is_noble="true" spouse="Hero.lord_ec_vlandia_1a" />
+    <Hero id="lord_ec_vlandia_1c" faction="Faction.clan_ec_vlandia_1" culture="Culture.vlandia" is_noble="true" father="Hero.lord_ec_vlandia_1a" mother="Hero.lord_ec_vlandia_1b" />
+    <Hero id="lord_ec_vlandia_1d" faction="Faction.clan_ec_vlandia_1" culture="Culture.vlandia" is_noble="true" father="Hero.lord_ec_vlandia_1a" mother="Hero.lord_ec_vlandia_1b" />
+    <Hero id="lord_ec_vlandia_1e" faction="Faction.clan_ec_vlandia_1" culture="Culture.vlandia" is_noble="true" father="Hero.lord_ec_vlandia_1a" mother="Hero.lord_ec_vlandia_1b" />
+
+    <Hero id="lord_ec_vlandia_2a" faction="Faction.clan_ec_vlandia_2" culture="Culture.vlandia" is_noble="true" spouse="Hero.lord_ec_vlandia_2b" />
+    <Hero id="lord_ec_vlandia_2b" faction="Faction.clan_ec_vlandia_2" culture="Culture.vlandia" is_noble="true" spouse="Hero.lord_ec_vlandia_2a" />
+    <Hero id="lord_ec_vlandia_2c" faction="Faction.clan_ec_vlandia_2" culture="Culture.vlandia" is_noble="true" father="Hero.lord_ec_vlandia_2a" mother="Hero.lord_ec_vlandia_2b" />
+    <Hero id="lord_ec_vlandia_2d" faction="Faction.clan_ec_vlandia_2" culture="Culture.vlandia" is_noble="true" spouse="Hero.lord_ec_vlandia_2e" />
+    <Hero id="lord_ec_vlandia_2e" faction="Faction.clan_ec_vlandia_2" culture="Culture.vlandia" is_noble="true" spouse="Hero.lord_ec_vlandia_2d" />
+
+   <Hero id="lord_ec_empire_w_1a" faction="Faction.clan_ec_empire_w_1" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_w_1b" />
+   <Hero id="lord_ec_empire_w_1b" faction="Faction.clan_ec_empire_w_1" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_w_1a" />
+   <Hero id="lord_ec_empire_w_1c" faction="Faction.clan_ec_empire_w_1" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_w_1f" />
+   <Hero id="lord_ec_empire_w_1d" faction="Faction.clan_ec_empire_w_1" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_w_1e" />
+   <Hero id="lord_ec_empire_w_1e" faction="Faction.clan_ec_empire_w_1" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_w_1d" />
+   <Hero id="lord_ec_empire_w_1f" faction="Faction.clan_ec_empire_w_1" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_w_1c" />
+
+   <Hero id="lord_ec_empire_w_2a" faction="Faction.clan_ec_empire_w_2" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_w_2b" />
+   <Hero id="lord_ec_empire_w_2b" faction="Faction.clan_ec_empire_w_2" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_w_2a" />
+   <Hero id="lord_ec_empire_w_2c" faction="Faction.clan_ec_empire_w_2" culture="Culture.empire" is_noble="true" />
+   <Hero id="lord_ec_empire_w_2d" faction="Faction.clan_ec_empire_w_2" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_w_2a" mother="Hero.lord_ec_empire_w_2b" />
+   <Hero id="lord_ec_empire_w_2e" faction="Faction.clan_ec_empire_w_2" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_w_2a" mother="Hero.lord_ec_empire_w_2b" />
+
+   <Hero id="lord_ec_empire_w_3a" faction="Faction.clan_ec_empire_w_3" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_w_3b" />
+   <Hero id="lord_ec_empire_w_3b" faction="Faction.clan_ec_empire_w_3" culture="Culture.empire" is_noble="true" spouse="Hero.lord_ec_empire_w_3a" />
+   <Hero id="lord_ec_empire_w_3c" faction="Faction.clan_ec_empire_w_3" culture="Culture.empire" is_noble="true" />
+   <Hero id="lord_ec_empire_w_3d" faction="Faction.clan_ec_empire_w_3" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_w_3a" mother="Hero.lord_ec_empire_w_3b" />
+   <Hero id="lord_ec_empire_w_3e" faction="Faction.clan_ec_empire_w_3" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_w_3a" mother="Hero.lord_ec_empire_w_3b" />
+   <Hero id="lord_ec_empire_w_3f" faction="Faction.clan_ec_empire_w_3" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_w_3a" mother="Hero.lord_ec_empire_w_3b" />
+   <Hero id="lord_ec_empire_w_3g" faction="Faction.clan_ec_empire_w_3" culture="Culture.empire" is_noble="true" father="Hero.lord_ec_empire_w_3a" mother="Hero.lord_ec_empire_w_3b" />
+
+
+</Heroes>

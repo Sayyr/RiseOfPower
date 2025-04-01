@@ -1,0 +1,4876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+<NPCCharacter id="lord_ec_aserai_1a"
+                name="{=lord.lord_ec_aserai_1a}Rusul"
+                age="40"
+                is_female="false"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.aserai"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="40" weight="0.6276" build="0.6867"  key="002EA00E5C141592AEC4993647B87D8843A447E3B9D4030186C9C57694375984037A96350735458700000000000000000000000000000000000000003CF45082"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="93"/>
+          <skill id="TwoHanded" value="80"/>
+          <skill id="Polearm" value="86"/>
+          <skill id="Bow" value="106"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="113"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Scouting" value="80"/>
+          <skill id="Tactics" value="75"/>
+          <skill id="Roguery" value="175"/>
+          <skill id="Charm" value="75"/>
+          <skill id="Leadership" value="100"/>
+          <skill id="Trade" value="90"/>
+          <skill id="Steward" value="90"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="ase_bat_template_bedouin" />
+      <EquipmentSet id="ase_civ_template_bedouin"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_aserai_1b"
+                name="{=lord.lord_ec_aserai_1b}Talib"
+                age="34"
+                is_female="false"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.aserai"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="34" weight="0.5497" build="0.4521"  key="0034D80E51B439C4A87D25784424A544917895D58838748284A2235938B46A480287862408DA5A8A00000000000000000000000000000000000000002B1C1102"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="176"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="163"/>
+          <skill id="Bow" value="123"/>
+          <skill id="Crossbow" value="126"/>
+          <skill id="Throwing" value="130"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Scouting" value="100"/>
+          <skill id="Tactics" value="125"/>
+          <skill id="Leadership" value="105"/>
+          <skill id="Trade" value="75"/>
+          <skill id="Steward" value="75"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="ase_bat_template_bedouin" />
+      <EquipmentSet id="ase_civ_template_bedouin"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_aserai_1c"
+                name="{=lord.lord_ec_aserai_1c}Damrina"
+                age="38"
+                is_female="true"
+                voice="softspoken"
+                default_group="Ranged"
+                is_hero="true"
+                culture="Culture.aserai"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.3652" build="0.5907"  key="002EC80E5B0020026879966CB5339778B47BAB66A924C786698CE758D7B5662E0359563505B9268600000000000000000000000000000000000000003CB42103"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="96"/>
+          <skill id="TwoHanded" value="83"/>
+          <skill id="Polearm" value="80"/>
+          <skill id="Bow" value="109"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="110"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Scouting" value="100"/>
+          <skill id="Charm" value="135"/>
+          <skill id="Steward" value="120"/>
+          <skill id="Medicine" value="120"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="ase_bat_template_bedouin" />
+      <EquipmentSet id="ase_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_aserai_1d"
+                name="{=lord.lord_ec_aserai_1d}Zulfiqar"
+                age="20"
+                is_female="false"
+                voice="ironic"
+                default_group="Infantry"
+                is_hero="true"
+                culture="Culture.aserai"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="20" weight="0.6276" build="0.6867"  key="002EA00E5C141592AEC4993647B87D88C67847E3B9D4030186C9C576E8E56239037A96350735458700000000000000000000000000000000000000003CF45082"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="166"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="163"/>
+          <skill id="Bow" value="123"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="136"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="75"/>
+          <skill id="Roguery" value="75"/>
+          <skill id="Leadership" value="50"/>
+          <skill id="Trade" value="50"/>
+          <skill id="Steward" value="90"/>
+          <skill id="Medicine" value="50"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="2" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="ase_bat_template_bedouin" />
+      <EquipmentSet id="ase_civ_template_bedouin"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_aserai_1e"
+                name="{=lord.lord_ec_aserai_1e}Ziyad"
+                age="75"
+                is_female="false"
+                voice="ironic"
+                default_group="Infantry"
+                is_hero="true"
+                culture="Culture.aserai"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="75" weight="0.2386" build="0.7602"  key="0020600F00702002C94BE9967B842A8B968B57E8AEA579647D6CAC971DABEA4B024B4624048C6CD60000000000000000000000000000000000000000628C0043"  />
+    </face>
+    <skills></skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="2" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="ase_bat_template_bedouin" />
+      <EquipmentSet id="ase_civ_template_bedouin"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_aserai_2a"
+                name="{=lord.lord_ec_aserai_2a}Hakim"
+                age="51"
+                is_female="false"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.aserai"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="51" weight="0.4751" build="0.8279"  key="002E380E40FC125568656EB75644AB73A372B69379577ADC743ABD3A13C863C704BC76460B5C583900000000000000000000000000000000000000000B649042"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="140"/>
+          <skill id="TwoHanded" value="90"/>
+          <skill id="Polearm" value="180"/>
+          <skill id="Bow" value="140"/>
+          <skill id="Crossbow" value="50"/>
+          <skill id="Throwing" value="130"/>
+          <skill id="Riding" value="150"/>
+          <skill id="Acrobatics" value="150"/>
+          <skill id="Steward" value="90"/>
+          <skill id="Medicine" value="90"/>
+          <skill id="Leadership" value="130"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="2" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="ase_bat_template_medium" />
+      <EquipmentSet id="ase_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_aserai_2b"
+                name="{=lord.lord_ec_aserai_2b}Shahzad"
+                age="28"
+                is_female="false"
+                voice="earnest"
+                default_group="Infantry"
+                is_hero="true"
+                culture="Culture.aserai"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.4673" build="0.7299"  key="0034CC0D802C23149E9726393873A6C7559DB3B799878B598979DDBC8368548A03BB76350BB8769A00000000000000000000000000000000000000001B6410C4"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="170"/>
+          <skill id="TwoHanded" value="180"/>
+          <skill id="Polearm" value="163"/>
+          <skill id="Bow" value="123"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="136"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Scouting" value="95"/>
+          <skill id="Steward" value="90"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="2" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="ase_bat_template_bedouin" />
+      <EquipmentSet id="ase_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_aserai_2c"
+                name="{=lord.lord_ec_aserai_2c}Safiya"
+                age="45"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.aserai"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="45" weight="0.4645" build="0.5656"  key="0031BC0FCFFC0004397BB7854676B4A5A7889C86B2B66E9DD27A4A25B45727690278762407796472000000000000000000000000000000000000000046F44083"  />
+    </face>
+    <skills>
+          <skill id="Steward" value="160"/>
+          <skill id="Leadership" value="125"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Medicine" value="150"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="ase_bat_template_flamboyant" />
+      <EquipmentSet id="ase_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_aserai_2d"
+                name="{=lord.lord_ec_aserai_2d}Farah"
+                age="26"
+                is_female="true"
+                voice="earnest"
+                default_group="Ranged"
+                is_hero="true"
+                culture="Culture.aserai"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="26" weight="0.1" build="0.5878"  key="0031980E59CC2006A7D8CC66A85A8976E196645737EAE6946348366A8D92875703A976350A8B7589000000000000000000000000000000000000000037444103"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="89"/>
+          <skill id="TwoHanded" value="80"/>
+          <skill id="Polearm" value="80"/>
+          <skill id="Bow" value="149"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="110"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Scouting" value="40"/>
+          <skill id="Charm" value="110"/>
+          <skill id="Trade" value="110"/>
+          <skill id="Steward" value="125"/>
+          <skill id="Medicine" value="120"/>
+          <skill id="Engineering" value="50"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="ase_bat_template_medium" />
+      <EquipmentSet id="ase_civ_template_bedouin"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_aserai_2e"
+                name="{=lord.lord_ec_aserai_2e}Uthman"
+                age="22"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.aserai"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.4694" build="0.5878"  key="0034980D99CC2388A7D8CC66A85A8976E196645737EAE6946348366A8D92875703697635068B7589000000000000000000000000000000000000000036D44102"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="110"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="119"/>
+          <skill id="Bow" value="86"/>
+          <skill id="Crossbow" value="83"/>
+          <skill id="Throwing" value="90"/>
+          <skill id="Riding" value="140"/>
+          <skill id="Acrobatics" value="100"/>
+          <skill id="Scouting" value="50"/>
+          <skill id="Tactics" value="55"/>
+          <skill id="Charm" value="50"/>
+          <skill id="Leadership" value="75"/>
+          <skill id="Trade" value="45"/>
+          <skill id="Steward" value="75"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="2" />
+          <Trait id="Mercy" value="-2" />
+          <Trait id="Calculating" value="-2" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="ase_bat_template_flamboyant" />
+      <EquipmentSet id="ase_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_1a"
+                name="{=lord.lord_ec_battania_1a}Aethelthryth"
+                age="55"
+                is_female="true"
+                voice="earnest"
+                default_group="Ranged"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="55" weight="0.409" build="0.5324"  key="000874079C583001696A57CA869B8A86D84684AC48759A489C663E5A9A72378C0888668908866DC70000000000000000000000000000000000000000410C20C3"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="86"/>
+          <skill id="TwoHanded" value="93"/>
+          <skill id="Polearm" value="80"/>
+          <skill id="Bow" value="116"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="103"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="150"/>
+          <skill id="Charm" value="100"/>
+          <skill id="Leadership" value="95"/>
+          <skill id="Steward" value="90"/>
+          <skill id="Medicine" value="90"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="2" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_lady" />
+      <EquipmentSet id="bat_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_1b"
+                name="{=lord.lord_ec_battania_1b}Hoel"
+                age="50"
+                is_female="false"
+                voice="curt"
+                default_group="Infantry"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="50" weight="0.409" build="0.5324"  key="0008740780583400696A57CA869B8A86D84684AC48759A489C663E5A9A72378C0488664608866DC70000000000000000000000000000000000000000410C3082"  />
+    </face>
+    <skills></skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_heavy" />
+      <EquipmentSet id="bat_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_1c"
+                name="{=lord.lord_ec_battania_1c}Feichin"
+                age="28"
+                is_female="false"
+                voice="softspoken"
+                default_group="Ranged"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.3256" build="0.3854"  key="0005900780E42209799A7AA4A8488A77998984A82493AD74157737539943464301565613055A878100000000000000000000000000000000000000002EAC4042"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="126"/>
+          <skill id="TwoHanded" value="133"/>
+          <skill id="Polearm" value="120"/>
+          <skill id="Bow" value="176"/>
+          <skill id="Crossbow" value="163"/>
+          <skill id="Throwing" value="160"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Scouting" value="115"/>
+          <skill id="Tactics" value="115"/>
+          <skill id="Steward" value="80"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_heavy" />
+      <EquipmentSet id="bat_civ_template_wild"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_1d"
+                name="{=lord.lord_ec_battania_1d}Ruarcc"
+                age="30"
+                is_female="false"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="30" weight="0.5262" build="0.6376"  key="000A5C078B88118A7C679867898ADB9E947B67B4A48834643847637849886B58019A8614094BA74A000000000000000000000000000000000000000019249002"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="170"/>
+          <skill id="Polearm" value="169"/>
+          <skill id="Bow" value="130"/>
+          <skill id="Crossbow" value="126"/>
+          <skill id="Throwing" value="123"/>
+          <skill id="Riding" value="125"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Scouting" value="75"/>
+          <skill id="Leadership" value="75"/>
+          <skill id="Steward" value="100"/>
+          <skill id="Medicine" value="105"/>
+          <skill id="Engineering" value="55"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="-2" />
+          <Trait id="Honor" value="2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_medium" />
+      <EquipmentSet id="bat_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_1e"
+                name="{=lord.lord_ec_battania_1e}Steaphan"
+                age="22"
+                is_female="false"
+                voice="softspoken"
+                default_group="Ranged"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.5614" build="0.1993"  key="0008780A512C169679DC96573ED263B196452ACB73C6596688D676246577AAD5008386030859BC25000000000000000000000000000000000000000045048042"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="83"/>
+          <skill id="TwoHanded" value="90"/>
+          <skill id="Polearm" value="86"/>
+          <skill id="Bow" value="116"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="103"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="125"/>
+          <skill id="Charm" value="50"/>
+          <skill id="Trade" value="75"/>
+          <skill id="Steward" value="90"/>
+          <skill id="Medicine" value="90"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-2" />
+          <Trait id="Mercy" value="2" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_medium" />
+      <EquipmentSet id="bat_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_1f"
+                name="{=lord.lord_ec_battania_1f}Aerona"
+                age="27"
+                is_female="true"
+                voice="curt"
+                default_group="Ranged"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="27" weight="0.6549" build="0.3635"  key="00085C0340CC20042D65898187B3269B979888C9186B5A476479E4C62A6685A60145A61404A98A69000000000000000000000000000000000000000068843103"  />
+    </face>
+    <skills>
+          <skill id="Riding" value="140"/>
+          <skill id="Charm" value="110"/>
+          <skill id="Trade" value="115"/>
+          <skill id="Steward" value="180"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="2" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_lady" />
+      <EquipmentSet id="bat_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_1g"
+                name="{=lord.lord_ec_battania_1g}Fianna"
+                age="30"
+                is_female="true"
+                voice="earnest"
+                default_group="HorseArcher"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="30" weight="0.4547" build="0.4429"  key="0008980D0DA020014AC59D65D98CAA72468AC9829C8478767C46683565A69949027776240748477D000000000000000000000000000000000000000050DC1103"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="89"/>
+          <skill id="TwoHanded" value="90"/>
+          <skill id="Polearm" value="80"/>
+          <skill id="Bow" value="116"/>
+          <skill id="Crossbow" value="103"/>
+          <skill id="Throwing" value="100"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Tactics" value="50"/>
+          <skill id="Charm" value="75"/>
+          <skill id="Leadership" value="50"/>
+          <skill id="Steward" value="50"/>
+          <skill id="Medicine" value="75"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_lady" />
+      <EquipmentSet id="bat_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_2a"
+                name="{=lord.lord_ec_battania_2a}Murtagh"
+                age="46"
+                is_female="false"
+                voice="earnest"
+                default_group="Ranged"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="46" weight="1" build="0.9552"  key="0005840A51FC2A19A466443D3B6A997C89A28A5568848996358659977BC577C8047EF6450746386400000000000000000000000000000000000000004AF49042"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="139"/>
+          <skill id="TwoHanded" value="130"/>
+          <skill id="Polearm" value="120"/>
+          <skill id="Bow" value="170"/>
+          <skill id="Crossbow" value="169"/>
+          <skill id="Throwing" value="160"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Tactics" value="75"/>
+          <skill id="Leadership" value="110"/>
+          <skill id="Steward" value="75"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="2" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_wild" />
+      <EquipmentSet id="bat_civ_template_wild"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_2b"
+                name="{=lord.lord_ec_battania_2b}Elen"
+                age="45"
+                is_female="true"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="45" weight="0.0509" build="0.3586"  key="0002C40A4000300193AC78793AE49AB88855A552AD86B778D781A136A7DA278904C516460C8635B500000000000000000000000000000000000000003B941003"  />
+    </face>
+    <skills>
+          <skill id="Riding" value="100"/>
+          <skill id="Charm" value="120"/>
+          <skill id="Leadership" value="50"/>
+          <skill id="Trade" value="130"/>
+          <skill id="Steward" value="175"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_lady" />
+      <EquipmentSet id="bat_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_2c"
+                name="{=lord.lord_ec_battania_2c}Gwenhwyfar"
+                age="23"
+                is_female="true"
+                voice="earnest"
+                default_group="HorseArcher"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.0046" build="0.5011"  key="000A6C0200702004AAAC56BE6C83862B88567A673936A6D889676538A94B775B0F6806F20BB96E5A00000000000000000000000000000000000000002CD40003"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="129"/>
+          <skill id="TwoHanded" value="130"/>
+          <skill id="Polearm" value="126"/>
+          <skill id="Bow" value="189"/>
+          <skill id="Crossbow" value="160"/>
+          <skill id="Throwing" value="160"/>
+          <skill id="Riding" value="140"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Scouting" value="50"/>
+          <skill id="Tactics" value="50"/>
+          <skill id="Roguery" value="25"/>
+          <skill id="Charm" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_wild" />
+      <EquipmentSet id="bat_civ_template_wild"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_2d"
+                name="{=lord.lord_ec_battania_2d}Aonghas"
+                age="21"
+                is_female="false"
+                voice="ironic"
+                default_group="Infantry"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.5818" build="0.6444"  key="00057808C0CC151455AC345E4BB67896CBA4366A67B4797475A6C8C69577A866004A96030474A4630000000000000000000000000000000000000000587C1142"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="169"/>
+          <skill id="TwoHanded" value="170"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="130"/>
+          <skill id="Crossbow" value="139"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Tactics" value="40"/>
+          <skill id="Leadership" value="40"/>
+          <skill id="Steward" value="55"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="2" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_wild" />
+      <EquipmentSet id="bat_civ_template_wild"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_2e"
+                name="{=lord.lord_ec_battania_2e}Rhosyn"
+                age="19"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="19" weight="0.3133" build="0.3287"  key="0005840A56FC2A04A466443D3B6A997C89A28A5568848996358659977BC577C8047556460746386400000000000000000000000000000000000000003AF49044"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="55"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="75"/>
+          <skill id="Charm" value="75"/>
+          <skill id="Steward" value="100"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_lady" />
+      <EquipmentSet id="bat_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_3a"
+                name="{=lord.lord_ec_battania_3a}Gwythyr"
+                age="38"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.029" build="0.6991"  key="0002680200E4291557EB97AAA5AA934B8B837A5995A47C5846384669568A87C7016A06140662399C000000000000000000000000000000000000000038C45142"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="170"/>
+          <skill id="Polearm" value="169"/>
+          <skill id="Bow" value="130"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="129"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Smithing" value="145"/>
+          <skill id="Tactics" value="55"/>
+          <skill id="Leadership" value="55"/>
+          <skill id="Steward" value="90"/>
+          <skill id="Engineering" value="55"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_flamboyant" />
+      <EquipmentSet id="bat_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_3b"
+                name="{=lord.lord_ec_battania_3b}Carmelai"
+                age="58"
+                is_female="true"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="57" weight="0.2633" build="0"  key="00023802808820068628997421618237854883A965B8C7C74523475DB878B6960770467907D95B8A000000000000000000000000000000000000000042E41042"  />
+    </face>
+    <skills>
+          <skill id="Riding" value="100"/>
+          <skill id="Charm" value="55"/>
+          <skill id="Trade" value="75"/>
+          <skill id="Steward" value="180"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_lady" />
+      <EquipmentSet id="bat_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_3c"
+                name="{=lord.lord_ec_battania_3c}Fraser"
+                age="18"
+                is_female="false"
+                voice="curt"
+                default_group="Ranged"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.3349" build="0.4162"  key="0008480D00B435C85A94217833B6B9848898497563B4C9B97A66676A287986570E9656E20C47744D0000000000000000000000000000000000000000513C1142"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="86"/>
+          <skill id="TwoHanded" value="93"/>
+          <skill id="Polearm" value="80"/>
+          <skill id="Bow" value="110"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="109"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Steward" value="80"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-2" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_medium" />
+      <EquipmentSet id="bat_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+
+  </NPCCharacter>
+<NPCCharacter id="lord_ec_battania_3d"
+                name="{=lord.lord_ec_battania_3d}Faoglaith"
+                age="35"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="35" weight="0.6813" build="0.6991"  key="00054C00807037D1B48C7C88B28A8AD767479E5962727A8547A8489CABEE876A019AA614097F58D200000000000000000000000000000000000000004D242042"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="170"/>
+          <skill id="Polearm" value="169"/>
+          <skill id="Bow" value="130"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="129"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Smithing" value="145"/>
+          <skill id="Tactics" value="55"/>
+          <skill id="Leadership" value="55"/>
+          <skill id="Steward" value="90"/>
+          <skill id="Engineering" value="55"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="2" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_heavy" />
+      <EquipmentSet id="bat_civ_template_wild"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_3e"
+                name="{=lord.lord_ec_battania_3e}Aelis"
+                age="37"
+                is_female="true"
+                voice="curt"
+                default_group="Ranged"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="37" weight="0" build="0.4162"  key="0008480B80B410025A94217833B6B9848898497563B4C9B97A66676A2879865701B606130B47744D0000000000000000000000000000000000000000516C10C3"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="86"/>
+          <skill id="TwoHanded" value="90"/>
+          <skill id="Polearm" value="83"/>
+          <skill id="Bow" value="116"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="103"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="140"/>
+          <skill id="Charm" value="115"/>
+          <skill id="Medicine" value="75"/>
+          <skill id="Steward" value="55"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_wild" />
+      <EquipmentSet id="bat_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_3f"
+                name="{=lord.lord_ec_battania_3f}Beornraed"
+                age="60"
+                is_female="false"
+                voice="curt"
+                default_group="Infantry"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="60" weight="0.5509" build="0.3349"  key="0002680200E43913579BA688383889948B837A5995A47C5846384669568A87C7087586890762399C000000000000000000000000000000000000000038E45142"  />
+    </face>
+    <skills></skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="-2" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_heavy" />
+      <EquipmentSet id="bat_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_4a"
+                name="{=lord.lord_ec_battania_4a}Amalgaid"
+                age="46"
+                is_female="false"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="46" weight="0.4151" build="0.635"  key="00005404065829D42C4C5842BDB3EE258CAC8AD18867D59B67A3A7357286879701AA66130A5B8856000000000000000000000000000000000000000027644102"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="173"/>
+          <skill id="Polearm" value="166"/>
+          <skill id="Bow" value="136"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="123"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Scouting" value="55"/>
+          <skill id="Leadership" value="55"/>
+          <skill id="Steward" value="125"/>
+          <skill id="Medicine" value="95"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="-2" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_medium" />
+      <EquipmentSet id="bat_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_4b"
+                name="{=lord.lord_ec_battania_4b}Ciorstaidh"
+                age="48"
+                is_female="true"
+                voice="ironic"
+                default_group="Ranged"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="0.2577" build="0.4707"  key="0002600281581007AB69C989567963A7A7A785465475892669790BBD5956C3980297462409AF769800000000000000000000000000000000000000003F2C20C3"  />
+    </face>
+    <skills>
+          <skill id="Riding" value="120"/>
+          <skill id="Charm" value="125"/>
+          <skill id="Steward" value="160"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="2" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_lady" />
+      <EquipmentSet id="bat_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_4c"
+                name="{=lord.lord_ec_battania_4c}Meridoc"
+                age="80"
+                is_female="false"
+                voice="curt"
+                default_group="Infantry"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="80" weight="1" build="0.8908"  key="00022806095801C2A36699CE5436372D736B78AC7A79D9B567B9D8B7987B5DD8019D66140965B69200000000000000000000000000000000000000003B246042"  />
+    </face>
+    <skills></skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="-2" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_medium" />
+      <EquipmentSet id="bat_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_4d"
+                name="{=lord.lord_ec_battania_4d}Rhona"
+                age="38"
+                is_female="true"
+                voice="softspoken"
+                default_group="Ranged"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.1651" build="0.6998"  key="0000AC04015829C1994C5842BDB3EE256649D652777347C867A3A735C388867B027A2624075B8856000000000000000000000000000000000000000026EC2102"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="86"/>
+          <skill id="TwoHanded" value="90"/>
+          <skill id="Polearm" value="83"/>
+          <skill id="Bow" value="119"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="100"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Charm" value="145"/>
+          <skill id="Leadership" value="40"/>
+          <skill id="Steward" value="55"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_lady" />
+      <EquipmentSet id="bat_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_4e"
+                name="{=lord.lord_ec_battania_4e}Aelfsige"
+                age="38"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.2334" build="0.57"  key="00021C04C6581552A33C76CBC55A7BBA84A7C4A78BD2548C286D4C844729966C03894635087E18A9000000000000000000000000000000000000000037148102"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="173"/>
+          <skill id="Polearm" value="166"/>
+          <skill id="Bow" value="136"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="123"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Scouting" value="55"/>
+          <skill id="Leadership" value="95"/>
+          <skill id="Steward" value="125"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_medium" />
+      <EquipmentSet id="bat_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_4f"
+                name="{=lord.lord_ec_battania_4f}Aedelraed"
+                age="19"
+                is_female="false"
+                voice="ironic"
+                default_group="Infantry"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="19" weight="0.6746" build="0.3815"  key="00058C0B805806D787DACBA79CAA66866E553A939937BAA8528D749DAC78D99A0B86A6B20A63386A0000000000000000000000000000000000000000191C10C2"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="170"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="130"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Scouting" value="75"/>
+          <skill id="Tactics" value="25"/>
+          <skill id="Steward" value="50"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="-2" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_flamboyant" />
+      <EquipmentSet id="bat_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_battania_4g"
+                name="{=lord.lord_ec_battania_4g}Aeronwy"
+                age="25"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.battania"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="25" weight="0.2052" build="0.5448"  key="00058C034058200187DACBA79CAA668697D73A939937BAA85286749D747965DA008836030863C86A0000000000000000000000000000000000000000191C20C3"  />
+    </face>
+    <skills>
+          <skill id="Riding" value="200"/>
+          <skill id="Charm" value="55"/>
+          <skill id="Steward" value="75"/>
+          <skill id="Medicine" value="120"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="2" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_lady" />
+      <EquipmentSet id="bat_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_khuzait_1a"
+                name="{=lord.lord_ec_khuzait_1a}Tarik"
+                age="30"
+                is_female="false"
+                voice="ironic"
+                default_group="HorseArcher"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="30" weight="0" build="0.6918"  key="001E9C0E51CC15C2190769EA078228E4D5C78C87A094AE891AF5168E1ED45752036A063506687975000000000000000000000000000000000000000010C450C0"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="120"/>
+          <skill id="TwoHanded" value="120"/>
+          <skill id="Polearm" value="139"/>
+          <skill id="Bow" value="176"/>
+          <skill id="Crossbow" value="160"/>
+          <skill id="Throwing" value="163"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Scouting" value="75"/>
+          <skill id="Tactics" value="90"/>
+          <skill id="Leadership" value="65"/>
+          <skill id="Steward" value="55"/>
+          <skill id="Engineering" value="55"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="-2" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="khu_bat_template_nomad" />
+      <EquipmentSet id="khu_civ_template_nomad"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_khuzait_1b"
+                name="{=lord.lord_ec_khuzait_1b}Zheng"
+                age="28"
+                is_female="false"
+                voice="ironic"
+                default_group="Infantry"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.4744" build="0.5152"  key="001E640F0058014A6687C026A729B77A7396AAB585FC77297889272BAD5BAA1602487024045CA8B500000000000000000000000000000000000000005E882100"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="170"/>
+          <skill id="Bow" value="130"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="20"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="45"/>
+          <skill id="Leadership" value="150"/>
+          <skill id="Steward" value="90"/>
+          <skill id="Medicine" value="45"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="2" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="khu_bat_template_heavy" />
+      <EquipmentSet id="khu_civ_template_nomad"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_khuzait_1c"
+                name="{=lord.lord_ec_khuzait_1c}Ramazan"
+                age="22"
+                is_female="false"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.2902" build="0.7303"  key="001E6C0FDEB4204375622A77A79854AB748A7E95BCC97CDA3778389C84C78977028B40240857A531000000000000000000000000000000000000000025007140"  />
+    </face>
+    <skills>
+          <skill id="Riding" value="110"/>
+          <skill id="Tactics" value="90"/>
+          <skill id="Roguery" value="90"/>
+          <skill id="Charm" value="110"/>
+          <skill id="Trade" value="90"/>
+          <skill id="Steward" value="75"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="2" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="khu_bat_template_medium" />
+      <EquipmentSet id="khu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_khuzait_1d"
+                name="{=lord.lord_ec_khuzait_1d}Ozturk"
+                age="60"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="60" weight="0.4559" build="0.4152"  key="001EFC0E40583142EE47C68A3AE85B47B5A8684246AD76AECB6C6C764695C39A06567668056D98BD000000000000000000000000000019A30000000068A400C3"  />
+    </face>
+    <skills></skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="-2" />
+          <Trait id="Calculating" value="2" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="khu_bat_template_heavy" />
+      <EquipmentSet id="khu_civ_template_nomad"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_khuzait_1e"
+                name="{=lord.lord_ec_khuzait_1e}Zehra"
+                age="31"
+                is_female="true"
+                voice="softspoken"
+                default_group="HorseArcher"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="31" weight="0" build="0.9676"  key="001B3C0E40001002528317117111116680F68735607DA402BD86A4317C530016027F06240710600120440000059883350000000000001A0B000000007EE41003"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="129"/>
+          <skill id="TwoHanded" value="120"/>
+          <skill id="Polearm" value="130"/>
+          <skill id="Bow" value="179"/>
+          <skill id="Crossbow" value="160"/>
+          <skill id="Throwing" value="160"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="55"/>
+          <skill id="Charm" value="90"/>
+          <skill id="Leadership" value="90"/>
+          <skill id="Steward" value="90"/>
+          <skill id="Medicine" value="125"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="khu_bat_template_nomad" />
+      <EquipmentSet id="khu_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_khuzait_1f"
+                name="{=lord.lord_ec_khuzait_1f}Aydana"
+                age="24"
+                is_female="true"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="24" weight="0.0139" build="0.3966"  key="001BB00FC0B420041388EF6A05CB0F70759878061BBEC07696E4742996737C75017606130716A189000000006A00003900000000000015040000000044FC2003"  />
+    </face>
+    <skills>
+          <skill id="Charm" value="105"/>
+          <skill id="Trade" value="100"/>
+          <skill id="Steward" value="155"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="2" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="khu_bat_template_lady" />
+      <EquipmentSet id="khu_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_khuzait_2a"
+                name="{=lord.lord_ec_khuzait_2a}Talat"
+                age="50"
+                is_female="false"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="50" weight="0.5912" build="0.3944"  key="001EA40E50001890678896854D867737DC4A64BCA297975C897958E766844B50078636780869C4B600000000000000000000000000000000000000005B0C6142"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="179"/>
+          <skill id="Bow" value="133"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="127"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="140"/>
+          <skill id="Charm" value="40"/>
+          <skill id="Leadership" value="50"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="khu_bat_template_heavy" />
+      <EquipmentSet id="khu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_khuzait_2b"
+                name="{=lord.lord_ec_khuzait_2b}Xia"
+                age="42"
+                is_female="true"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="42" weight="0.1912" build="0.3944"  key="001EA40E55003005678896854D867737D26A64BCA297975C897958E7448C5E68078636780869C4B600000000000000000000000000000000000000005B0C00C3"  />
+    </face>
+    <skills>
+          <skill id="Riding" value="130"/>
+          <skill id="Steward" value="180"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="khu_bat_template_lady" />
+      <EquipmentSet id="khu_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_khuzait_2c"
+                name="{=lord.lord_ec_khuzait_2c}Nurasyl"
+                age="30"
+                is_female="false"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="30" weight="0.1795" build="0.5835"  key="0018DC0FD5CC15C6A27D87478958B985CBC44C34A5ED5A7A53573D73D777B3A4019936130986845E000000000000000000000000000019A300000000212C4042"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="163"/>
+          <skill id="TwoHanded" value="169"/>
+          <skill id="Polearm" value="170"/>
+          <skill id="Bow" value="130"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="139"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Scouting" value="55"/>
+          <skill id="Tactics" value="55"/>
+          <skill id="Leadership" value="20"/>
+          <skill id="Steward" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="-2" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="khu_bat_template_medium" />
+      <EquipmentSet id="khu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_khuzait_2d"
+                name="{=lord.lord_ec_khuzait_2d}Samet"
+                age="21"
+                is_female="false"
+                voice="softspoken"
+                default_group="HorseArcher"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="1"  key="001EDC0D801412490239CF678E8B79AA5888731595EEFA771CCB397418C33245007F460307874989000000000000000000000000000019A3000000000EFC1082"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="86"/>
+          <skill id="TwoHanded" value="80"/>
+          <skill id="Polearm" value="93"/>
+          <skill id="Bow" value="119"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="100"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Scouting" value="75"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="khu_bat_template_flamboyant" />
+      <EquipmentSet id="khu_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_khuzait_2e"
+                name="{=lord.lord_ec_khuzait_2e}Sami"
+                age="21"
+                is_female="true"
+                voice="softspoken"
+                default_group="HorseArcher"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.2022" build="0.8361"  key="001EA00FCBFC10010059AB7657792F53647DCAB79B7A4A00529D65265E56C576029D362409C9B699000000000000000000000000000000000000000007244083"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="86"/>
+          <skill id="TwoHanded" value="80"/>
+          <skill id="Polearm" value="93"/>
+          <skill id="Bow" value="119"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="100"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Charm" value="75"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="khu_bat_template_nomad" />
+      <EquipmentSet id="khu_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_1a"
+                name="{=lord.lord_ec_empire_n_1a}Sarpedon"
+                age="52"
+                is_female="false"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="52" weight="0.3" build="0.5148"  key="000D700D180006030776678E53648686588CA83378A87F2099667D788BC332450498464609669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="176"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="163"/>
+          <skill id="Bow" value="123"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="136"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="75"/>
+          <skill id="Leadership" value="85"/>
+          <skill id="Steward" value="100"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_stoic" />
+      <EquipmentSet id="emp_civ_template_northfrontier"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_1b"
+                name="{=lord.lord_ec_empire_n_1b}Phaenna"
+                age="49"
+                is_female="true"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="49" weight="0" build="0.6444"  key="00087808C0CC100255AC345E4BB67896CBA4366A67B4797475A6C8C69577A866034A06350474A4630000000000000000000000000000000000000000587C10C3"  />
+    </face>
+    <skills>
+          <skill id="Riding" value="110"/>
+          <skill id="Charm" value="120"/>
+          <skill id="Steward" value="125"/>
+          <skill id="Medicine" value="155"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="2" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_1c"
+                name="{=lord.lord_ec_empire_n_1c}Theocritus"
+                age="30"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="30" weight="0.45" build="0.5466"  key="000AB00A4000034F0776678E53648686288CA83378A87F2099667D788BC532450398763509669963000000000000000000000000000019A300000000212C4002"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="176"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="163"/>
+          <skill id="Bow" value="123"/>
+          <skill id="Crossbow" value="136"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Scouting" value="55"/>
+          <skill id="Leadership" value="155"/>
+          <skill id="Steward" value="75"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="2" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="-2" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_flamboyant" />
+      <EquipmentSet id="emp_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_1d"
+                name="{=lord.lord_ec_empire_n_1d}Vlasis"
+                age="23"
+                is_female="false"
+                voice="ironic"
+                default_group="HorseArcher"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.3834" build="0.6404"  key="0008480D00E41912156863B4A9C465837769457AB3669745C9A1B73984ACA494006A6603068797AA000000000000000000000000000000000000000044D420C2"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="130"/>
+          <skill id="TwoHanded" value="120"/>
+          <skill id="Polearm" value="120"/>
+          <skill id="Bow" value="160"/>
+          <skill id="Crossbow" value="170"/>
+          <skill id="Throwing" value="160"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="95"/>
+          <skill id="Roguery" value="100"/>
+          <skill id="Charm" value="75"/>
+          <skill id="Steward" value="100"/>
+          <skill id="Medicine" value="45"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_northfrontier" />
+      <EquipmentSet id="emp_civ_template_northfrontier"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_1e"
+                name="{=lord.lord_ec_empire_n_1e}Hemera"
+                age="21"
+                is_female="true"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.1034" build="0.5644"  key="002B500FD6CC20048571B797EBE9B794369756975B475756086490698D99A79700A826030AB696A50000000000000000000000000000000000000000355C1083"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="119"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="100"/>
+          <skill id="Bow" value="90"/>
+          <skill id="Crossbow" value="80"/>
+          <skill id="Throwing" value="89"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Scouting" value="50"/>
+          <skill id="Roguery" value="45"/>
+          <skill id="Charm" value="75"/>
+          <skill id="Steward" value="90"/>
+          <skill id="Medicine" value="90"/>
+          <skill id="Engineering" value="45"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="2" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_northfrontier" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_2a"
+                name="{=lord.lord_ec_empire_n_2a}Thea"
+                age="53"
+                is_female="true"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="53" weight="0.3" build="0.5148"  key="001BB40E40000006067778787764877687786568B6B4270986A8398A757C32280688466708855B65000000000000000000000000000019A30000000041041003"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="116"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="103"/>
+          <skill id="Bow" value="106"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="113"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Tactics" value="55"/>
+          <skill id="Charm" value="55"/>
+          <skill id="Leadership" value="60"/>
+          <skill id="Steward" value="125"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_flamboyant" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_2b"
+                name="{=lord.lord_ec_empire_n_2b}Philotheas"
+                age="55"
+                is_female="false"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="55" weight="0.3" build="0.5148"  key="001BB40E40000006067778787764877687786568B6B4270986A8398A757C32280688466708855B65000000000000000000000000000019A30000000041041003"  />
+    </face>
+    <skills></skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="2" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_northfrontier" />
+      <EquipmentSet id="emp_civ_template_northfrontier"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_2c"
+                name="{=lord.lord_ec_empire_n_2c}Heraclides"
+                age="32"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="32" weight="0.3596" build="0.5355"  key="00205C0E4F14268D8685CA678886EBCD2637A976B564E987A77871B9B668DA4C069856680928B765000000000000000000000000000019A30000000045342103"  />
+    </face>
+    <skills></skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_northfrontier" />
+      <EquipmentSet id="emp_civ_template_northfrontier"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_2d"
+                name="{=lord.lord_ec_empire_n_2d}Trajko"
+                age="30"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="30" weight="0.6573" build="0.4366"  key="0020B00D802C1292C687DAA7788A864891AF644997A2844764DB98DAC12AC36B0287A62408657355000000000000000000000000000019A300000000151400C3"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="100"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="110"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Scouting" value="75"/>
+          <skill id="Tactics" value="55"/>
+          <skill id="Leadership" value="85"/>
+          <skill id="Steward" value="100"/>
+          <skill id="Medicine" value="55"/>
+          <skill id="Engineering" value="45"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="2" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_northfrontier" />
+      <EquipmentSet id="emp_civ_template_stoic"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_2e"
+                name="{=lord.lord_ec_empire_n_2e}Soterios"
+                age="28"
+                is_female="false"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.5533" build="0.2574"  key="001E8C0B805835CFA941839CA4574B86B76544745DA3747CEB67797A4727965D01C486130C54C746000000000000000000000000000019A30000000059A43083"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="100"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="110"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Scouting" value="45"/>
+          <skill id="Tactics" value="45"/>
+          <skill id="Leadership" value="50"/>
+          <skill id="Steward" value="45"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_flamboyant" />
+      <EquipmentSet id="emp_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_2f"
+                name="{=lord.lord_ec_empire_n_2f}Tisiphone"
+                age="30"
+                is_female="true"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="30" weight="0.2577" build="0.529"  key="00233C0FC0CC00065686D5C3277CB7818748F77C38476B84AEE1A94D6B8CC88A0378463507953835000000000000000000000000000000000000000044F41003"  />
+    </face>
+    <skills>
+          <skill id="Charm" value="75"/>
+          <skill id="Steward" value="140"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_3a"
+                name="{=lord.lord_ec_empire_n_3a}Icthelion"
+                age="35"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="35" weight="0.5" build="0.5"  key="001B780B9A2C0240516343052192F063445545A761A80A1120322F278EB38B0002E776240E3230231A990077082060670000000000001E770000000011DC4003"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Leadership" value="95"/>
+          <skill id="Medicine" value="35"/>
+          <skill id="Engineering" value="35"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_medium" />
+      <EquipmentSet id="emp_civ_template_northfrontier"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_3b"
+                name="{=lord.lord_ec_empire_n_3b}Chloe"
+                age="36"
+                is_female="true"
+                voice="curt"
+                default_group="HorseArcher"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="36" weight="0.0139" build="0.5"  key="001BB80FC00030027C7664876753888A7577866254C69643C4B647398C95A0370177061407A7497300000000000000000000000000000000000000003AF44003"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="110"/>
+          <skill id="TwoHanded" value="106"/>
+          <skill id="Polearm" value="103"/>
+          <skill id="Bow" value="170"/>
+          <skill id="Crossbow" value="160"/>
+          <skill id="Throwing" value="169"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Scouting" value="25"/>
+          <skill id="Tactics" value="25"/>
+          <skill id="Charm" value="70"/>
+          <skill id="Steward" value="95"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_northfrontier" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_3c"
+                name="{=lord.lord_ec_empire_n_3c}Aspasia"
+                age="29"
+                is_female="true"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="29" weight="0.1407" build="0.7269"  key="001B680B80A02006B5853B9B9B699555788A2B4D8988D854A72493DB8577448C02BB26240B639B7300000000000000000000000000000000000000004F6C1083"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="119"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="100"/>
+          <skill id="Bow" value="90"/>
+          <skill id="Crossbow" value="83"/>
+          <skill id="Throwing" value="86"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Scouting" value="25"/>
+          <skill id="Steward" value="25"/>
+          <skill id="Medicine" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="2" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_flamboyant" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_3d"
+                name="{=lord.lord_ec_empire_n_3d}Eukleides"
+                age="32"
+                is_female="false"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="32" weight="0.5" build="0.5"  key="001BB80D1100328D7C7664876753888A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002"  />
+    </face>
+    <skills>
+          <skill id="Riding" value="100"/>
+          <skill id="Smithing" value="45"/>
+          <skill id="Leadership" value="110"/>
+          <skill id="Steward" value="160"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_flamboyant" />
+      <EquipmentSet id="emp_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_n_3e"
+                name="{=lord.lord_ec_empire_n_3e}Demetrios"
+                age="19"
+                is_female="false"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="19" weight="0.3322" build="0.909"  key="0020E80F1AB429125618498C2A819D6A9B94925D36A2D469388848A86C25672B027E562407C88959000000000000000000000000000000000000000060DC1082"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="110"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="109"/>
+          <skill id="Bow" value="90"/>
+          <skill id="Crossbow" value="80"/>
+          <skill id="Throwing" value="80"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Tactics" value="45"/>
+          <skill id="Charm" value="35"/>
+          <skill id="Leadership" value="45"/>
+          <skill id="Steward" value="45"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_medium" />
+      <EquipmentSet id="emp_civ_template_northfrontier"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_1a"
+                name="{=lord.lord_ec_empire_s_1a}Korinna"
+                age="51"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="51" weight="0.1157" build="0.0164"  key="0015680F211430027C85565766536767C17786A6A48A7343CBA68B418A9EA035046026460695357300000000000000000000000000000000000000007ADC4003"  />
+    </face>
+    <skills>
+          <skill id="Riding" value="120"/>
+          <skill id="Charm" value="130"/>
+          <skill id="Steward" value="175"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_southfrontier" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_1b"
+                name="{=lord.lord_ec_empire_s_1b}Hephaestus"
+                age="50"
+                is_female="false"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="50" weight="0.6382" build="0.5071"  key="0020900FDCCC384D71B8985875B8BB89777D8B87A829585844D96B8DD4A4EA850368A635061555A600000000000000000000000000000000000000003ED44102"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="200"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_southfrontier" />
+      <EquipmentSet id="emp_civ_template_southfrontier"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_1c"
+                name="{=lord.lord_ec_empire_s_1c}Asterius"
+                age="34"
+                is_female="false"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="34" weight="0.3345" build="0.5303"  key="001380060F70260F936BA78676C34E817975AC9BA872D69BD48276D869ED88550288562408A4B773000000000000000000000000000019A30000000039147042"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="200"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_southfrontier" />
+      <EquipmentSet id="emp_civ_template_southfrontier"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_1d"
+                name="{=lord.lord_ec_empire_s_1d}Epiphanius"
+                age="28"
+                is_female="false"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.3" build="0.5693"  key="0015640D170028C20776678E53648686588CA83378A87F2099667D788BC332450199461309669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="170"/>
+          <skill id="TwoHanded" value="170"/>
+          <skill id="Polearm" value="170"/>
+          <skill id="Bow" value="130"/>
+          <skill id="Crossbow" value="130"/>
+          <skill id="Throwing" value="130"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Leadership" value="95"/>
+          <skill id="Steward" value="90"/>
+          <skill id="Engineering" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_southfrontier" />
+      <EquipmentSet id="emp_civ_template_southfrontier"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_1e"
+                name="{=lord.lord_ec_empire_s_1e}Proteus"
+                age="21"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.6503" build="0.4263"  key="0008BC0B802C05CD5B9C64714746865793B74F558834C659BB61864AA2A957280156A61305999324000000000000000000000000000019A30000000020B43102"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Scouting" value="35"/>
+          <skill id="Tactics" value="25"/>
+          <skill id="Leadership" value="25"/>
+          <skill id="Steward" value="70"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="-2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_southfrontier" />
+      <EquipmentSet id="emp_civ_template_southfrontier"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_1f"
+                name="{=lord.lord_ec_empire_s_1f}Iokaste"
+                age="33"
+                is_female="true"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="33" weight="0" build="0.7915"  key="0020B00D802C1006C687DAA7788A864873DB644997A2844764DB98DA5AAB83AA028C062408657355000000000000000000000000000019A300000000151400C3"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="100"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="100"/>
+          <skill id="Bow" value="80"/>
+          <skill id="Crossbow" value="80"/>
+          <skill id="Throwing" value="80"/>
+          <skill id="Riding" value="100"/>
+          <skill id="Acrobatics" value="100"/>
+          <skill id="Charm" value="105"/>
+          <skill id="Leadership" value="35"/>
+          <skill id="Steward" value="75"/>
+          <skill id="Medicine" value="35"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_southfrontier" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_2a"
+                name="{=lord.lord_ec_empire_s_2a}Aristarchus"
+                age="60"
+                is_female="false"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="60" weight="0.2917" build="0.5693"  key="0020B00D802C1614C687DAA7788A864891AF644997A2844764DB98DAC12AC36B0589465608657355000000000000000000000000000019A300000000151400C3"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="110"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="110"/>
+          <skill id="Bow" value="80"/>
+          <skill id="Crossbow" value="80"/>
+          <skill id="Throwing" value="80"/>
+          <skill id="Riding" value="200"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Scouting" value="25"/>
+          <skill id="Tactics" value="75"/>
+          <skill id="Charm" value="25"/>
+          <skill id="Leadership" value="90"/>
+          <skill id="Steward" value="90"/>
+          <skill id="Medicine" value="35"/>
+          <skill id="Engineering" value="45"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_heavy" />
+      <EquipmentSet id="emp_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_2b"
+                name="{=lord.lord_ec_empire_s_2b}Ariadne"
+                age="51"
+                is_female="true"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="51" weight="0" build="0.6035"  key="0020000ADE8820018366648A7754DCBDA3B7C66295C2A6577005104FBC6336840489064608A7B7A500000000000000000000000000000000000000002EFC4103"  />
+    </face>
+    <skills>
+          <skill id="Charm" value="40"/>
+          <skill id="Leadership" value="75"/>
+          <skill id="Steward" value="150"/>
+          <skill id="Engineering" value="175"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_2c"
+                name="{=lord.lord_ec_empire_s_2c}Boreas"
+                age="48"
+                is_female="false"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="0.2" build="0.6035"  key="0020000AC08838CD8366648A7754DCBDA3B7C66295C2A6577005104FBC6336840489064508A7B7A500000000000000000000000000000000000000002EFC3002"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="150"/>
+          <skill id="Crossbow" value="150"/>
+          <skill id="Throwing" value="150"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Steward" value="40"/>
+          <skill id="Medicine" value="55"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_southfrontier" />
+      <EquipmentSet id="emp_civ_template_southfrontier"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_2d"
+                name="{=lord.lord_ec_empire_s_2d}Aspasia"
+                age="24"
+                is_female="true"
+                voice="softspoken"
+                default_group="HorseArcher"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="24" weight="0.2309" build="0.6256"  key="0010540B950010035928647ABA99377927DC6A793A88E5186346567A66F4C77703893635084ABB6C000000000000000000000000000019A3000000004D1C2043"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="150"/>
+          <skill id="TwoHanded" value="150"/>
+          <skill id="Polearm" value="150"/>
+          <skill id="Bow" value="150"/>
+          <skill id="Crossbow" value="150"/>
+          <skill id="Throwing" value="150"/>
+          <skill id="Riding" value="150"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Scouting" value="35"/>
+          <skill id="Charm" value="55"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="2" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_2e"
+                name="{=lord.lord_ec_empire_s_2e}Karme"
+                age="21"
+                is_female="true"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.2052" build="0.6755"  key="0026A80E40A030026B77B66E3AF76AA2B6854A8B48995B756719877A476679D600A936020AA9798C000000000000000000000000000019A3000000003B541103"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="100"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="100"/>
+          <skill id="Bow" value="80"/>
+          <skill id="Crossbow" value="80"/>
+          <skill id="Throwing" value="130"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Charm" value="75"/>
+          <skill id="Leadership" value="50"/>
+          <skill id="Trade" value="125"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="2" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_southfrontier" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_2f"
+                name="{=lord.lord_ec_empire_s_2f}Xenocrates"
+                age="25"
+                is_female="false"
+                voice="earnest"
+                default_group="Infantry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="25" weight="0.2729" build="0.6012"  key="0018880A40B43284C7638E3C3CB883806C76B861D66639B59877654EB4384B96048546450848C297000000000000000000000000000000000000000035141042"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="170"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Smithing" value="25"/>
+          <skill id="Tactics" value="25"/>
+          <skill id="Leadership" value="40"/>
+          <skill id="Steward" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_southfrontier" />
+      <EquipmentSet id="emp_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_3a"
+                name="{=lord.lord_ec_empire_s_3a}Athenodoros"
+                age="38"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.3335" build="0.4978"  key="0023380D9100088D7B9A49364B567BC548A953A28B7BB94794CCACAB8265C67B0457164605543C68000000000000000000000000000000000000000054B46102"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="75"/>
+          <skill id="Leadership" value="75"/>
+          <skill id="Steward" value="75"/>
+          <skill id="Medicine" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_flamboyant" />
+      <EquipmentSet id="emp_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_3b"
+                name="{=lord.lord_ec_empire_s_3b}Parthenope"
+                age="37"
+                is_female="true"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="37" weight="0.2417" build="0.4472"  key="0020800D80B4300F8A98D6769C168E8164999E73A1758973747E3998758AB58C067746670755AB35000000000000000000000000000000000000000016EC1043"  />
+    </face>
+    <skills>
+          <skill id="Tactics" value="50"/>
+          <skill id="Steward" value="105"/>
+          <skill id="Medicine" value="50"/>
+          <skill id="Engineering" value="50"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_3c"
+                name="{=lord.lord_ec_empire_s_3c}Telamon"
+                age="35"
+                is_female="false"
+                voice=""
+                default_group="Infantry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="35" weight="0.0335" build="0.4978"  key="0023380D8000174D7B9A49364B567BC548A953A28B7BB94794CCACAB8265C67B0457164605543C68000000000000000000000000000000000000000054B47102"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="180"/>
+          <skill id="TwoHanded" value="180"/>
+          <skill id="Polearm" value="190"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="140"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="2" />
+          <Trait id="Mercy" value="2" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_stoic" />
+      <EquipmentSet id="emp_civ_template_northfrontier"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_3d"
+                name="{=lord.lord_ec_empire_s_3d}Xanthippe"
+                age="38"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.2515" build="0.3966"  key="001BD80AC08810069C6F74848347AA85847493D4BB4A876C43A16E76E44A45B3017646140763D4B4000000000000000000000000000000000000000040E410C3"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="100"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="100"/>
+          <skill id="Bow" value="80"/>
+          <skill id="Crossbow" value="80"/>
+          <skill id="Throwing" value="80"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Scouting" value="145"/>
+          <skill id="Trade" value="45"/>
+          <skill id="Steward" value="75"/>
+          <skill id="Medicine" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_flamboyant" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_s_3e"
+                name="{=lord.lord_ec_empire_s_3e}Cassiopeia"
+                age="32"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="32" weight="0.2515" build="0.3966"  key="00209C0FC0B41006664AAEB488C65583298749BAC849A74869B9A77D2855C5560966469A06626887000000000000000000000000000000000000000032CC10C3"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="120"/>
+          <skill id="TwoHanded" value="120"/>
+          <skill id="Polearm" value="120"/>
+          <skill id="Bow" value="80"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="100"/>
+          <skill id="Riding" value="150"/>
+          <skill id="Acrobatics" value="100"/>
+          <skill id="Tactics" value="50"/>
+          <skill id="Leadership" value="50"/>
+          <skill id="Steward" value="50"/>
+          <skill id="Medicine" value="150"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="2" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_southfrontier" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_1a"
+                name="{=lord.lord_ec_sturgia_1a}Dzmitry"
+                age="65"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="65" weight="0.5787" build="0.6713"  key="000834020C881442764AAEB488C6558329878987C7B7788E69B9A77D2855C556068A9668086268870000000000000000000000000000000000000000330430C2"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Smithing" value="25"/>
+          <skill id="Scouting" value="25"/>
+          <skill id="Tactics" value="45"/>
+          <skill id="Leadership" value="50"/>
+          <skill id="Steward" value="100"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="-2" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_1b"
+                name="{=lord.lord_ec_sturgia_1b}Ashildr"
+                age="55"
+                is_female="true"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="55" weight="0.5787" build="0.6713"  key="000834020C881002764AAEB488C6558329878987C7B7788E69B9A77D2855C556068A9668086268870000000000000000000000000000000000000000330430C3"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="200"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_woodsman" />
+      <EquipmentSet id="stu_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_1c"
+                name="{=lord.lord_ec_sturgia_1c}Viktor"
+                age="30"
+                is_female="false"
+                voice="ironic"
+                default_group="Infantry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="30.2" weight="0.3688" build="0.767"  key="00029406D04433C5C385889A69E9A8A6A878846645A67427A7A72088A34585C9019C66140912A98600000000000000000000000000000000000000002D2C30C0"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="220"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="100"/>
+          <skill id="Crossbow" value="100"/>
+          <skill id="Throwing" value="140"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Scouting" value="25"/>
+          <skill id="Tactics" value="25"/>
+          <skill id="Steward" value="55"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="-2" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="-2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_1d"
+                name="{=lord.lord_ec_sturgia_1d}Valdemar"
+                age="26"
+                is_female="false"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="26" weight="0.1916" build="0.7701"  key="0002B0028000214582177ACC4967330A5E93BAB7C968EB3E84963B96A595D457019C361309D64BB30000000000000000000000000000000000000000293C5040"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Steward" value="110"/>
+          <skill id="Medicine" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="2" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_woodsman" />
+      <EquipmentSet id="stu_civ_template_woodsman"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_1e"
+                name="{=lord.lord_ec_sturgia_1e}Stina"
+                age="29"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="29" weight="0.0231" build="0.8657"  key="00056C061BFC2001398663426782885855797D67A5167244953153918A842667013D06130366637200000000000000000000000000000000000000005C744003"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="100"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="100"/>
+          <skill id="Bow" value="80"/>
+          <skill id="Crossbow" value="80"/>
+          <skill id="Throwing" value="80"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="100"/>
+          <skill id="Tactics" value="75"/>
+          <skill id="Roguery" value="20"/>
+          <skill id="Charm" value="75"/>
+          <skill id="Trade" value="140"/>
+          <skill id="Steward" value="100"/>
+          <skill id="Medicine" value="50"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_flamboyant" />
+      <EquipmentSet id="stu_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_1f"
+                name="{=lord.lord_ec_sturgia_1f}Eila"
+                age="27"
+                is_female="true"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="27" weight="0.2485" build="0.3812"  key="000280020014200295158B6DAAE798BA591E3396DAB947C7674E7A54D5567A6D025646240587AC480000000000000000000000000000000000000000389C0043"  />
+    </face>
+    <skills>
+          <skill id="Charm" value="40"/>
+          <skill id="Steward" value="140"/>
+          <skill id="Engineering" value="20"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_flamboyant" />
+      <EquipmentSet id="stu_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_2a"
+                name="{=lord.lord_ec_sturgia_2a}Boris"
+                age="45"
+                is_female="false"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="45" weight="0.3834" build="0.9064"  key="0005BC098A8804406BADEA89594C06483566C9A8B36934358488376794386577038E663508429E620000000000000000000000000000000000000000291C2142"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Tactics" value="40"/>
+          <skill id="Leadership" value="125"/>
+          <skill id="Steward" value="125"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="2" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_flamboyant" />
+      <EquipmentSet id="stu_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_2b"
+                name="{=lord.lord_ec_sturgia_2b}Vadim"
+                age="40"
+                is_female="false"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="40" weight="0.2454" build="0.6003"  key="0005CC06102C1483354B5165DB58559DDDD678A9B4597EA7D7A358555855DA8604A946460A8E7CB3000000000000000000000000000000000000000051440142"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Scouting" value="100"/>
+          <skill id="Roguery" value="125"/>
+          <skill id="Leadership" value="40"/>
+          <skill id="Steward" value="50"/>
+          <skill id="Engineering" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_medium" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_2c"
+                name="{=lord.lord_ec_sturgia_2c}Anatoli"
+                age="36"
+                is_female="false"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="36" weight="0.0417" build="0.3499"  key="00025403590029948A953889BB63E5446766784CB455B7A77D87B836298B685A02C816240C8874B600000000000000000000000000000000000000001F8C70C2"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Charm" value="125"/>
+          <skill id="Leadership" value="40"/>
+          <skill id="Trade" value="125"/>
+          <skill id="Steward" value="50"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="2" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_woodsman" />
+      <EquipmentSet id="stu_civ_template_woodsman"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_2d"
+                name="{=lord.lord_ec_sturgia_2d}Artyom"
+                age="32"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="32" weight="0.3834" build="0.9064"  key="0010BC078688044A6BADEA89594C06486734C9A8B369343584883767B4AA6194038E663508429E620000000000000000000000000000000000000000291C2142"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Leadership" value="40"/>
+          <skill id="Tactics" value="100"/>
+          <skill id="Steward" value="50"/>
+          <skill id="Engineering" value="75"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="2" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_woodsman" />
+      <EquipmentSet id="stu_civ_template_woodsman"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_2e"
+                name="{=lord.lord_ec_sturgia_2e}Kolya"
+                age="29"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="29" weight="0.3256" build="0.6744"  key="0002680611582492BA716A2689257579C4AB7CA496E5979A72E75165236B7637018A561308A68C8300000000000000000000000000000000000000003D0C4142"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Leadership" value="40"/>
+          <skill id="Steward" value="50"/>
+          <skill id="Medicine" value="100"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="-2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_flamboyant" />
+      <EquipmentSet id="stu_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_2f"
+                name="{=lord.lord_ec_sturgia_2f}Igor"
+                age="70"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="70" weight="0.9616" build="1"  key="0000CC08117029544B8824614572A785A96D7887579C872962A6DA77496582260FFFE6FF0F9672B700000000000000000000000000000000000000005DFC7102"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="200"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="2" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_medium" />
+      <EquipmentSet id="stu_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_2g"
+                name="{=lord.lord_ec_sturgia_2g}Ksyusha"
+                age="40"
+                is_female="true"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="40" weight="0.0226" build="0.7602"  key="0002600280702002C94BE9967B842A8B968B57E8AEA579647D6CAC971DABEA4B037B0635078C6CD6000000000000000000000000000000000000000062F42103"  />
+    </face>
+    <skills>
+          <skill id="Steward" value="155"/>
+          <skill id="Medicine" value="120"/>
+          <skill id="Engineering" value="75"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="2" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_lady" />
+      <EquipmentSet id="stu_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_3a"
+                name="{=lord.lord_ec_sturgia_3a}Varya"
+                age="46"
+                is_female="true"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="46" weight="0.0071" build="0.4746"  key="001098014C8820022DAD5B947EE5D67EA95BBACB68D4D6C47A62A96334D9939904A706450A85A79300000000000000000000000000000000000000001B5C2103"  />
+    </face>
+    <skills>
+          <skill id="Charm" value="75"/>
+          <skill id="Leadership" value="100"/>
+          <skill id="Steward" value="105"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_medium" />
+      <EquipmentSet id="stu_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_3b"
+                name="{=lord.lord_ec_sturgia_3b}Gaute"
+                age="50"
+                is_female="false"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="50" weight="0.6882" build="0.5046"  key="00029806C000245438576CA4156584A8959A598684B44C48AF32496A58CA474504A8A6460A595535000000000000000000000000000000000000000007444140"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="200"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="2" />
+          <Trait id="Calculating" value="-2" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_medium" />
+      <EquipmentSet id="stu_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_3c"
+                name="{=lord.lord_ec_sturgia_3c}Sindrov"
+                age="30"
+                is_female="false"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="30" weight="0.1862" build="0.5046"  key="0002940611443414B385889A6979A865A878846645A67447A7A72B88A34585C9016836140612A98600000000000000000000000000000000000000002CDC30C2"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Scouting" value="25"/>
+          <skill id="Tactics" value="40"/>
+          <skill id="Leadership" value="55"/>
+          <skill id="Steward" value="55"/>
+          <skill id="Medicine" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_woodsman"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_3d"
+                name="{=lord.lord_ec_sturgia_3d}Vidar"
+                age="25"
+                is_female="false"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="25" weight="0.2993" build="0.5046"  key="000298060000260538576CA4156584A8959A598684B44C48AF32496A58CA474501A846130A595535000000000000000000000000000000000000000007444142"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Leadership" value="25"/>
+          <skill id="Steward" value="30"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_medium" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_sturgia_3e"
+                name="{=lord.lord_ec_sturgia_3e}Kseniya"
+                age="36"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="36" weight="0" build="0.6127"  key="0010D806C6E430063B927EE51EC1696A477B22919569999786C244D83449D166026906240675387700000000000000000000000000000000000000002AC40083"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="130"/>
+          <skill id="Scouting" value="45"/>
+          <skill id="Charm" value="50"/>
+          <skill id="Steward" value="50"/>
+          <skill id="Medicine" value="100"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_lady" />
+      <EquipmentSet id="stu_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_vlandia_1a"
+                name="{=lord.lord_ec_vlandia_1a}Otgar"
+                age="49"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="49" weight="0.0324" build="0.591"  key="00051C08C01401820776678E53648686588CA83378A87F2099667D788BC332450489064608669983000000000000000000000000000019A3000000000F0C3004"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="140"/>
+          <skill id="Acrobatics" value="100"/>
+          <skill id="Tactics" value="120"/>
+          <skill id="Leadership" value="50"/>
+          <skill id="Steward" value="50"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_vlandia_1b"
+                name="{=lord.lord_ec_vlandia_1b}Cornelia"
+                age="43"
+                is_female="true"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="43" weight="0" build="0.6116"  key="00008008007000019D6727184D826A7494BB96791BB459558CC8ECE9A287286A03990635094C3297000000000000000000000000000000000000000041243043"  />
+    </face>
+    <skills>
+          <skill id="Charm" value="45"/>
+          <skill id="Steward" value="155"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_lady" />
+      <EquipmentSet id="vla_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_vlandia_1c"
+                name="{=lord.lord_ec_vlandia_1c}Wulfram"
+                age="27"
+                is_female="false"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="27" weight="0.0265" build="0.538"  key="00050008C000015277005A7B07B790769A9C858556978205C2D4AF387EB12046027806240705B331000000000000000000000000000000000000000036EC3082"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="140"/>
+          <skill id="Acrobatics" value="100"/>
+          <skill id="Scouting" value="55"/>
+          <skill id="Steward" value="25"/>
+          <skill id="Engineering" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="2" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_vlandia_1d"
+                name="{=lord.lord_ec_vlandia_1d}Isidor"
+                age="23"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.3" build="0.5148"  key="000AD80D1500160E0776678E53648686588CA83378A87F2099667D788BC332450198461309669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="140"/>
+          <skill id="Acrobatics" value="100"/>
+          <skill id="Tactics" value="25"/>
+          <skill id="Charm" value="25"/>
+          <skill id="Leadership" value="75"/>
+          <skill id="Medicine" value="45"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_medium" />
+      <EquipmentSet id="vla_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_vlandia_1e"
+                name="{=lord.lord_ec_vlandia_1e}Floriane"
+                age="25"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="25" weight="0.0571" build="0.6168"  key="00089808C02C1002B757811B57697925D86474B776B97477D458046FA7675A280AA916A20A4C7B680000000000000000000000000000000000000000315C3043"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="100"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="100"/>
+          <skill id="Bow" value="80"/>
+          <skill id="Crossbow" value="80"/>
+          <skill id="Throwing" value="80"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Charm" value="55"/>
+          <skill id="Leadership" value="40"/>
+          <skill id="Steward" value="90"/>
+          <skill id="Medicine" value="45"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_flamboyant" />
+      <EquipmentSet id="vla_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_vlandia_2a"
+                name="{=lord.lord_ec_vlandia_2a}Gebahard"
+                age="50"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="50" weight="0.2423" build="0.5818"  key="00024C0611882200D59B76A9A7B3B885765CA7B4B677A93827C37A3AAA9B6A410399463509A586280000000000000000000000000000000000000000212490C2"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Scouting" value="25"/>
+          <skill id="Tactics" value="75"/>
+          <skill id="Leadership" value="200"/>
+          <skill id="Steward" value="100"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="2" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_flamboyant" />
+      <EquipmentSet id="vla_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_vlandia_2b"
+                name="{=lord.lord_ec_vlandia_2b}Rebekka"
+                age="47"
+                is_female="true"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="47" weight="0.1219" build="0.5176"  key="0002780AC07030017737D6545A5C7883A9B88DA6569658317DC83A977679B276039826350967567B000000000000000000000000000000000000000039244103"  />
+    </face>
+    <skills>
+          <skill id="Charm" value="75"/>
+          <skill id="Steward" value="90"/>
+          <skill id="Medicine" value="110"/>
+          <skill id="Engineering" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_lady" />
+      <EquipmentSet id="vla_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_vlandia_2c"
+                name="{=lord.lord_ec_vlandia_2c}Adalfarus"
+                age="21"
+                is_female="false"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.4906" build="0.5655"  key="0002400D00583085D9EDC87A6EAA2E414E9C9B657C848C5679C3ADA54A95BBD5006876030648776400000000000000000000000000000000000000004AD41142"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Scouting" value="45"/>
+          <skill id="Charm" value="25"/>
+          <skill id="Steward" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="-2" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_medium" />
+      <EquipmentSet id="vla_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_vlandia_2d"
+                name="{=lord.lord_ec_vlandia_2d}Esther"
+                age="40"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="40" weight="0.054" build="0.5655"  key="0002400C5B583001D9EDC87A6EAA2E414E9F9B657C848C5679C3ADA54A95BBD8036816350648776400000000000000000000000000000000000000004AD41103"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="100"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="100"/>
+          <skill id="Bow" value="80"/>
+          <skill id="Crossbow" value="80"/>
+          <skill id="Throwing" value="80"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Charm" value="25"/>
+          <skill id="Trade" value="50"/>
+          <skill id="Steward" value="100"/>
+          <skill id="Medicine" value="125"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_flamboyant" />
+      <EquipmentSet id="vla_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_vlandia_2e"
+                name="{=lord.lord_ec_vlandia_2e}Khilderic"
+                age="35"
+                is_female="false"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="35" weight="0.1806" build="0.5445"  key="00026806DD58320684E89671E668B79175967BB75C6286767982D87D3495B54A01A836140A665799000000000000000000000000000000000000000029541142"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="120"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="25"/>
+          <skill id="Leadership" value="25"/>
+          <skill id="Steward" value="30"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="2" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_flamboyant" />
+      <EquipmentSet id="vla_civ_template_heavy"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_1a"
+                name="{=lord.lord_ec_empire_w_1a}Aristodemos"
+                age="32"
+                is_female="false"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="32" weight="0.591" build="0.6319"  key="0020900F00B423856A888A8B5765ACB59CC9B8B74ED3A939B723D78179D2765A0399963509167998000000000000000000000000000019A3000000004B1C00C2"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="75"/>
+          <skill id="Leadership" value="90"/>
+          <skill id="Steward" value="90"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="2" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_stoic" />
+      <EquipmentSet id="emp_civ_template_stoic"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_1b"
+                name="{=lord.lord_ec_empire_w_1b}Selena"
+                age="30"
+                is_female="true"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="30" weight="0.4394" build="0.4615"  key="0023700FC04420024B486656448A37896654294447621AE93888BC78A489B65D0367763506675C66000000000000000000000000000000000000000050C42103"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Scouting" value="90"/>
+          <skill id="Charm" value="90"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_1c"
+                name="{=lord.lord_ec_empire_w_1c}Klytie"
+                age="33"
+                is_female="true"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="33" weight="0.2386" build="0.7602"  key="0020600F0070200EC94BE9967B842A8B968B57E8AEA579647D6CAC971DABEA4B024B4624048C6CD60000000000000000000000000000000000000000628C2103"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="100"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="100"/>
+          <skill id="Bow" value="100"/>
+          <skill id="Crossbow" value="80"/>
+          <skill id="Throwing" value="80"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Charm" value="90"/>
+          <skill id="Leadership" value="45"/>
+          <skill id="Steward" value="75"/>
+          <skill id="Medicine" value="110"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_flamboyant" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_1d"
+                name="{=lord.lord_ec_empire_w_1d}Antheia"
+                age="27"
+                is_female="true"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="27" weight="0.2639" build="0.4182"  key="0020400D0070200676C6536ACA47C88294965198A4AB8899158D584935B8B9950266462406BC596400000000000000000000000000000000000000004CCC4083"  />
+    </face>
+    <skills>
+          <skill id="Charm" value="100"/>
+          <skill id="Steward" value="130"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_1e"
+                name="{=lord.lord_ec_empire_w_1e}Stojan"
+                age="38"
+                is_female="false"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.3002" build="0.6306"  key="00206C0E408823125985769A0677262797CB5BEAC37587B749279B79A676338703595635055A6987000000000000000000000000000000000000000040A48082"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Scouting" value="75"/>
+          <skill id="Engineering" value="35"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_medium" />
+      <EquipmentSet id="emp_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_1f"
+                name="{=lord.lord_ec_empire_w_1f}Telesphorus"
+                age="31"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="31" weight="0.2386" build="0.2894"  key="0010980D80E4300D2DAD5B947EE5D67EA95BBACB68D4D6C47A62A96334D9939901A446140A85A79300000000000000000000000000000000000000001B4C7002"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="100"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="100"/>
+          <skill id="Bow" value="80"/>
+          <skill id="Crossbow" value="80"/>
+          <skill id="Throwing" value="80"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Scouting" value="45"/>
+          <skill id="Tactics" value="25"/>
+          <skill id="Charm" value="30"/>
+          <skill id="Leadership" value="30"/>
+          <skill id="Trade" value="45"/>
+          <skill id="Steward" value="140"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-2" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_stoic" />
+      <EquipmentSet id="emp_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_2a"
+                name="{=lord.lord_ec_empire_w_2a}Aristoteles"
+                age="66"
+                is_female="false"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="66" weight="0.446" build="0.2022"  key="0020A40D00A017CFED9A7B57A6BA3378299E87A9C2A565AEBBA99856A4476956069376680997785C000000000000000000000000000019A3000000002F245142"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="75"/>
+          <skill id="Leadership" value="90"/>
+          <skill id="Steward" value="90"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="2" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_flamboyant" />
+      <EquipmentSet id="emp_civ_template_stoic"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_2b"
+                name="{=lord.lord_ec_empire_w_2b}Aikaterine"
+                age="55"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="55" weight="0.2022" build="0.51"  key="0020540FC0CC000E8767883AA585485585AA98B8778C8B799B857577AA8574540578365707884A9D000000000000000000000000000019A3000000001ADC2003"  />
+    </face>
+    <skills>
+          <skill id="Charm" value="75"/>
+          <skill id="Steward" value="120"/>
+          <skill id="Medicine" value="100"/>
+          <skill id="Engineering" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="2" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_flamboyant" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_2c"
+                name="{=lord.lord_ec_empire_w_2c}Ioannis"
+                age="60"
+                is_female="false"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="60" weight="0.6801" build="0.4615"  key="0020700D004422924B486656448A37896654294447621AE93888BC78A489B65D0367A63506675C66000000000000000000000000000000000000000050C42082"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Scouting" value="25"/>
+          <skill id="Tactics" value="25"/>
+          <skill id="Leadership" value="60"/>
+          <skill id="Steward" value="75"/>
+          <skill id="Medicine" value="75"/>
+          <skill id="Engineering" value="35"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="2" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_heavy" />
+      <EquipmentSet id="emp_civ_template_stoic"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_2d"
+                name="{=lord.lord_ec_empire_w_2d}Blazhe"
+                age="35"
+                is_female="false"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="35" weight="0.5" build="0.5"  key="001BB80D0000308D7C7664876753888A7577866254C69643C4B647398C95A0370177761407A7497300000000000000000000000000000000000000003AF47002"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Scouting" value="25"/>
+          <skill id="Tactics" value="25"/>
+          <skill id="Roguery" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_medium" />
+      <EquipmentSet id="emp_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_2e"
+                name="{=lord.lord_ec_empire_w_2e}Europa"
+                age="30"
+                is_female="true"
+                voice="sofspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="30" weight="0.0015" build="0.6815"  key="0002700E4014200A6B65659FA6A84B73775DC5538A38AC82C71899767B8B9978039A06350969A978000000000000000000000000000019A30000000051341103"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="100"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="100"/>
+          <skill id="Bow" value="80"/>
+          <skill id="Crossbow" value="80"/>
+          <skill id="Throwing" value="80"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Charm" value="45"/>
+          <skill id="Leadership" value="45"/>
+          <skill id="Trade" value="100"/>
+          <skill id="Steward" value="85"/>
+          <skill id="Medicine" value="55"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="2" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_medium" />
+      <EquipmentSet id="emp_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_3a"
+                name="{=lord.lord_ec_empire_w_3a}Eustorgios"
+                age="50"
+                is_female="false"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+       <BodyProperties version="4" age="50" weight="0.1179" build="0.6991"  key="0023A00C5DFC22803495893CAA47D878B84A9987CB417656898DB8ADB54CA883039A2635098B928C0000000000000000000000000000000000000000473430C2"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="75"/>
+          <skill id="Leadership" value="90"/>
+          <skill id="Steward" value="90"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_flamboyant" />
+      <EquipmentSet id="emp_civ_template_stoic"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_3b"
+                name="{=lord.lord_ec_empire_w_3b}Iliana"
+                age="50"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="50" weight="0.1179" build="0.6991"  key="0020A00E40FC20063495893CAA47D878B84A9987CB417656898DB8ADB54CA883039A2635098B928C000000000000000000000000000000000000000047344083"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="100"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="100"/>
+          <skill id="Bow" value="80"/>
+          <skill id="Crossbow" value="80"/>
+          <skill id="Throwing" value="80"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Charm" value="45"/>
+          <skill id="Steward" value="150"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="2" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="-1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_3c"
+                name="{=lord.lord_ec_empire_w_3c}Stamatis"
+                age="45"
+                is_female="false"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="45" weight="0.2386" build="0.3441"  key="0020680E4FA0234523A8867889AB1857972C358C6D727877686233A60C4467AA04854645083CA93500000000000000000000000000000000000000003D141082"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="-2" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_flamboyant" />
+      <EquipmentSet id="emp_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_3d"
+                name="{=lord.lord_ec_empire_w_3d}Lidia"
+                age="30"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="30" weight="0.2386" build="0.2894"  key="0010980D80E4200E2DAD5B947EE5D654A7ABBACB68D4D6C47A62A966979789AA00A446030A65A7ED00000000000000000000000000000000000000001B4C2103"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="160"/>
+          <skill id="TwoHanded" value="160"/>
+          <skill id="Polearm" value="160"/>
+          <skill id="Bow" value="120"/>
+          <skill id="Crossbow" value="120"/>
+          <skill id="Throwing" value="120"/>
+          <skill id="Riding" value="130"/>
+          <skill id="Acrobatics" value="120"/>
+          <skill id="Tactics" value="75"/>
+          <skill id="Leadership" value="90"/>
+          <skill id="Steward" value="90"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="-1" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_flamboyant" />
+      <EquipmentSet id="emp_civ_template_flamboyant"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_3e"
+                name="{=lord.lord_ec_empire_w_3e}Vana"
+                age="28"
+                is_female="true"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0" build="0.6127"  key="0010D80FC0E430063B927EE51EC1696A477B22919569999786C244D83449D166008906030875387700000000000000000000000000000000000000002B040083"  />
+    </face>
+    <skills>
+          <skill id="OneHanded" value="100"/>
+          <skill id="TwoHanded" value="100"/>
+          <skill id="Polearm" value="100"/>
+          <skill id="Bow" value="80"/>
+          <skill id="Crossbow" value="80"/>
+          <skill id="Throwing" value="80"/>
+          <skill id="Riding" value="110"/>
+          <skill id="Acrobatics" value="110"/>
+          <skill id="Scouting" value="25"/>
+          <skill id="Roguery" value="25"/>
+          <skill id="Charm" value="25"/>
+          <skill id="Leadership" value="25"/>
+          <skill id="Trade" value="25"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="0" />
+          <Trait id="Mercy" value="-1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_3f"
+                name="{=lord.lord_ec_empire_w_3f}Nia"
+                age="24"
+                is_female="true"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="24" weight="0.1713" build="0.7778"  key="00237C0A408810063C76ABB4C8838AA953E7858A9565CD5C43587B3899D46AA8018C36130845988C00000000000000000000000000000000000000001B042043"  />
+    </face>
+    <skills>
+          <skill id="Charm" value="90"/>
+          <skill id="Trade" value="110"/>
+          <skill id="Steward" value="100"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="-1" />
+          <Trait id="Mercy" value="0" />
+          <Trait id="Calculating" value="1" />
+          <Trait id="Honor" value="1" />
+          <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_ec_empire_w_3g"
+                name="{=lord.lord_ec_empire_w_3g}Teo"
+                age="22"
+                is_female="true"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+		face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.1096" build="0.3012"  key="0018880FC0B43004C7638E3C3CB883806C76B861D66639B59877654EB4384B96018526140848C297000000000000000000000000000000000000000035141043"  />
+    </face>
+    <skills>
+          <skill id="Tactics" value="15"/>
+          <skill id="Roguery" value="15"/>
+          <skill id="Charm" value="110"/>
+          <skill id="Leadership" value="50"/>
+          <skill id="Trade" value="50"/>
+          <skill id="Steward" value="50"/>
+          <skill id="Medicine" value="50"/>
+    </skills>
+    <Traits>
+          <Trait id="Valor" value="1" />
+          <Trait id="Mercy" value="1" />
+          <Trait id="Calculating" value="0" />
+          <Trait id="Honor" value="0" />
+          <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="emp_civ_template_lady_normal"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+</NPCCharacters>
